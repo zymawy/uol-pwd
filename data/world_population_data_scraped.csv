@@ -1,0 +1,1405 @@
+flag_url,iosCode,country,population,area,landArea,density,growthRate,worldPercentage,rank,year
+https://s3.amazonaws.com/images.wpr.com/flags/24/IN.png,IN,India,"1,417,173,173",3.3M,3M,481,0.81%,17.85%,1,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/CN.png,CN,China,"1,425,887,337",9.7M,9.4M,151,-0.02%,17.81%,2,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/US.png,US,United States,"338,289,857",9.4M,9.1M,37,0.5%,4.25%,3,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/ID.png,ID,Indonesia,"275,501,339",1.9M,1.9M,148,0.74%,3.47%,4,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/PK.png,PK,Pakistan,"235,824,862",881.9K,770.9K,312,1.98%,3%,5,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/NG.png,NG,Nigeria,"218,541,212",923.8K,910.8K,246,2.41%,2.8%,6,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/BR.png,BR,Brazil,"215,313,498",8.5M,8.4M,26,0.52%,2.7%,7,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/BD.png,BD,Bangladesh,"171,186,372",147.6K,130.2K,"1,329",1.03%,2.16%,8,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/RU.png,RU,Russia,"144,713,314",17.1M,16.4M,9,-0.19%,1.8%,9,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/MX.png,MX,Mexico,"127,504,125",2M,1.9M,66,0.75%,1.6%,10,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/ET.png,ET,Ethiopia,"123,379,924",1.1M,1.1M,112,2.55%,1.58%,11,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/JP.png,JP,Japan,"123,951,692",377.9K,364.5K,338,-0.53%,1.54%,12,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/PH.png,PH,Philippines,"115,559,009",342.4K,298.2K,394,1.54%,1.47%,13,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/EG.png,EG,Egypt,"110,990,103",1M,1M,113,1.56%,1.41%,14,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/CD.png,CD,Dr Congo,"99,010,212",2.3M,2.3M,45,3.29%,1.28%,15,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/VN.png,VN,Vietnam,"98,186,856",331.2K,313.4K,315,0.68%,1.23%,16,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/IR.png,IR,Iran,"88,550,570",1.6M,1.6M,55,0.7%,1.11%,17,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/TR.png,TR,Turkey,"85,341,241",783.6K,783.6K,110,0.56%,1.07%,18,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/DE.png,DE,Germany,"83,369,843",357.1K,349.4K,238,-0.09%,1.04%,19,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/TH.png,TH,Thailand,"71,697,030",513.1K,510.9K,141,0.15%,0.9%,20,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/GB.png,GB,United Kingdom,"67,508,936",242.9K,241.9K,280,0.34%,0.85%,21,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/TZ.png,TZ,Tanzania,"65,497,748",945.1K,885.8K,76,2.96%,0.84%,22,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/FR.png,FR,France,"64,626,628",551.7K,547.6K,118,0.2%,0.81%,23,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/ZA.png,ZA,South Africa,"59,893,885",1.2M,1.2M,50,0.87%,0.75%,24,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/IT.png,IT,Italy,"59,037,474",301.3K,295.7K,199,-0.28%,0.74%,25,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/KE.png,KE,Kenya,"54,027,487",580.4K,569.1K,97,1.99%,0.69%,26,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/MM.png,MM,Myanmar,"54,179,306",676.6K,652.7K,84,0.74%,0.68%,27,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/CO.png,CO,Colombia,"51,874,024",1.1M,1.1M,47,0.41%,0.65%,28,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/KR.png,KR,South Korea,"51,815,810",100.2K,97.6K,531,-0.06%,0.65%,29,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/UG.png,UG,Uganda,"47,249,585",241.6K,200.5K,242,2.82%,0.61%,30,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/SD.png,SD,Sudan,"46,874,204",1.9M,1.9M,26,2.63%,0.6%,31,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/ES.png,ES,Spain,"47,558,630",506K,499.6K,95,-0.08%,0.59%,32,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/AR.png,AR,Argentina,"45,510,318",2.8M,2.7M,17,0.58%,0.57%,33,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/DZ.png,DZ,Algeria,"44,903,225",2.4M,2.4M,19,1.57%,0.57%,34,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/IQ.png,IQ,Iraq,"44,496,122",438.3K,434.1K,105,2.27%,0.57%,35,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/AF.png,AF,Afghanistan,"41,128,771",652.2K,652.2K,65,2.7%,0.53%,36,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/PL.png,PL,Poland,"39,857,145",312.7K,306.1K,134,2.93%,0.51%,37,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/CA.png,CA,Canada,"38,454,327",10M,9M,4,0.85%,0.48%,38,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/MA.png,MA,Morocco,"37,457,971",446.6K,446.3K,85,1.02%,0.47%,39,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/SA.png,SA,Saudi Arabia,"36,408,820",2.1M,2.1M,17,1.48%,0.46%,40,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/UA.png,UA,Ukraine,"39,701,739",603.5K,579.4K,63,-7.45%,0.46%,41,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/AO.png,AO,Angola,"35,588,987",1.2M,1.2M,29,3.08%,0.46%,42,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/UZ.png,UZ,Uzbekistan,"34,627,652",447.4K,440.6K,80,1.55%,0.44%,43,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/YE.png,YE,Yemen,"33,696,614",528K,528K,65,2.24%,0.43%,44,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/PE.png,PE,Peru,"34,049,588",1.3M,1.3M,27,0.89%,0.43%,45,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/MY.png,MY,Malaysia,"33,938,221",330.8K,328.6K,104,1.09%,0.43%,46,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/GH.png,GH,Ghana,"33,475,870",238.5K,227.5K,150,1.93%,0.43%,47,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/MZ.png,MZ,Mozambique,"32,969,518",801.6K,786.4K,43,2.81%,0.42%,48,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/NP.png,NP,Nepal,"30,547,580",147.2K,143.3K,216,1.14%,0.39%,49,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/MG.png,MG,Madagascar,"29,611,714",587K,581.8K,52,2.41%,0.38%,50,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/CI.png,CI,Ivory Coast,"28,160,542",322.5K,318K,91,2.53%,0.36%,51,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/VE.png,VE,Venezuela,"28,301,696",916.4K,882K,33,1.9%,0.36%,52,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/CM.png,CM,Cameroon,"27,914,536",475.4K,472.7K,61,2.63%,0.36%,53,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/NE.png,NE,Niger,"26,207,977",1.3M,1.3M,21,3.8%,0.34%,54,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/AU.png,AU,Australia,"26,177,413",7.7M,7.7M,3,1%,0.33%,55,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/KP.png,KP,North Korea,"26,069,416",120.5K,120.4K,217,0.35%,0.33%,56,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/TW.png,TW,Taiwan,"23,893,394",36.2K,36.2K,661,0.13%,0.3%,57,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/ML.png,ML,Mali,"22,593,590",1.2M,1.2M,19,3.1%,0.29%,58,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/BF.png,BF,Burkina Faso,"22,673,762",273K,273.6K,85,2.55%,0.29%,59,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/SY.png,SY,Syria,"22,125,249",185.2K,183.6K,126,4.98%,0.29%,60,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/LK.png,LK,Sri Lanka,"21,832,143",65.6K,61.9K,354,0.28%,0.27%,61,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/MW.png,MW,Malawi,"20,405,317",118.5K,94.3K,222,2.58%,0.26%,62,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/ZM.png,ZM,Zambia,"20,017,675",752.6K,743.4K,28,2.76%,0.26%,63,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/RO.png,RO,Romania,"19,659,267",238.4K,230.1K,86,1.19%,0.25%,64,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/CL.png,CL,Chile,"19,603,733",756.1K,743.5K,26,0.13%,0.25%,65,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/KZ.png,KZ,Kazakhstan,"19,397,998",2.7M,2.7M,7,1.08%,0.24%,66,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/TD.png,TD,Chad,"17,723,315",1.3M,1.3M,15,3.13%,0.23%,67,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/EC.png,EC,Ecuador,"18,001,000",276.8K,248.4K,73,1.05%,0.23%,68,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/SO.png,SO,Somalia,"17,597,511",637.7K,627.3K,29,3.1%,0.23%,69,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/GT.png,GT,Guatemala,"17,843,908",108.9K,107.2K,169,1.39%,0.23%,70,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/SN.png,SN,Senegal,"17,316,449",196.7K,192.5K,92,2.58%,0.22%,71,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/NL.png,NL,Netherlands,"17,564,014",41.9K,33.7K,523,0.31%,0.22%,72,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/KH.png,KH,Cambodia,"16,767,842",181K,176.5K,96,1.06%,0.21%,73,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/ZW.png,ZW,Zimbabwe,"16,320,537",390.8K,386.9K,43,2.11%,0.21%,74,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/GN.png,GN,Guinea,"13,859,341",245.9K,245.7K,58,2.39%,0.18%,75,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/RW.png,RW,Rwanda,"13,776,698",26.3K,24.7K,571,2.31%,0.18%,76,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/BJ.png,BJ,Benin,"13,352,864",112.6K,112.8K,122,2.7%,0.17%,77,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/BI.png,BI,Burundi,"12,889,576",27.8K,25.7K,516,2.71%,0.17%,78,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/TN.png,TN,Tunisia,"12,356,117",163.6K,155.4K,80,0.83%,0.16%,79,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/BO.png,BO,Bolivia,"12,224,110",1.1M,1.1M,11,1.35%,0.15%,80,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/HT.png,HT,Haiti,"11,584,996",27.8K,27.6K,425,1.21%,0.15%,81,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/BE.png,BE,Belgium,"11,655,930",30.5K,30.3K,386,0.26%,0.15%,82,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/JO.png,JO,Jordan,"11,285,869",89.3K,88.8K,128,0.45%,0.14%,83,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/DO.png,DO,Dominican Republic,"11,228,821",48.7K,48.3K,235,0.93%,0.14%,84,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/CU.png,CU,Cuba,"11,212,191",109.9K,103.8K,108,-0.16%,0.14%,85,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/SS.png,SS,South Sudan,"10,913,164",619.7K,631.9K,18,1.61%,0.14%,86,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/SE.png,SE,Sweden,"10,549,347",450.3K,407.3K,26,0.59%,0.13%,87,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/HN.png,HN,Honduras,"10,432,860",112.5K,111.9K,95,1.54%,0.13%,88,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/CZ.png,CZ,Czech Republic,"10,493,986",78.9K,77.2K,136,0.01%,0.13%,89,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/AZ.png,AZ,Azerbaijan,"10,358,074",86.6K,82.6K,126,0.53%,0.13%,90,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/GR.png,GR,Greece,"10,384,971",132K,128.9K,80,-0.42%,0.13%,91,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/PG.png,PG,Papua New Guinea,"10,142,619",462.8K,452.9K,23,1.85%,0.13%,92,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/PT.png,PT,Portugal,"10,270,865",92.1K,91.6K,112,-0.23%,0.13%,93,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/HU.png,HU,Hungary,"9,967,308",93K,91.3K,111,1.9%,0.13%,94,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/TJ.png,TJ,Tajikistan,"9,952,787",143.1K,138.8K,73,1.92%,0.13%,95,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/AE.png,AE,United Arab Emirates,"9,441,129",83.6K,71K,134,0.8%,0.12%,96,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/BY.png,BY,Belarus,"9,534,954",207.6K,203K,47,-0.39%,0.12%,97,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/IL.png,IL,Israel,"9,038,309",20.8K,21.6K,424,1.51%,0.11%,98,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/TG.png,TG,Togo,"8,848,699",56.8K,54.4K,166,2.32%,0.11%,99,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/AT.png,AT,Austria,"8,939,617",83.9K,82.5K,109,0.22%,0.11%,100,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/CH.png,CH,Switzerland,"8,740,472",41.3K,39.5K,223,0.64%,0.11%,101,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/SL.png,SL,Sierra Leone,"8,605,718",71.7K,72.2K,122,2.15%,0.11%,102,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/LA.png,LA,Laos,"7,529,475",236.8K,230.8K,33,1.39%,0.1%,103,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/HK.png,HK,Hong Kong,"7,488,865",1.1K,1.1K,"7,135",0.04%,0.09%,104,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/RS.png,RS,Serbia,"7,221,365",88.4K,87.5K,82,-1%,0.09%,105,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/NI.png,NI,Nicaragua,"6,948,392",130.4K,120.3K,59,1.41%,0.09%,106,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/LY.png,LY,Libya,"6,812,341",1.8M,1.8M,4,1.12%,0.09%,107,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/PY.png,PY,Paraguay,"6,780,744",406.8K,397.3K,17,1.19%,0.09%,108,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/KG.png,KG,Kyrgyzstan,"6,630,623",200K,191.8K,35,1.58%,0.08%,109,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/BG.png,BG,Bulgaria,"6,781,953",110.9K,108.6K,62,-1.39%,0.08%,110,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/TM.png,TM,Turkmenistan,"6,430,770",488.1K,469.9K,14,1.33%,0.08%,111,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/SV.png,SV,El Salvador,"6,336,392",21K,20.7K,307,0.45%,0.08%,112,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/CG.png,CG,Republic Of The Congo,"5,970,424",342K,341.5K,18,2.29%,0.08%,113,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/SG.png,SG,Singapore,"5,975,689",710,718,"8,377",0.65%,0.08%,114,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/DK.png,DK,Denmark,"5,882,261",43.1K,40K,148,0.49%,0.07%,115,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/SK.png,SK,Slovakia,"5,643,453",49K,49K,118,2.69%,0.07%,116,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/CF.png,CF,Central African Republic,"5,579,144",623K,623K,9,2.92%,0.07%,117,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/FI.png,FI,Finland,"5,540,745",338.4K,303.9K,18,0.09%,0.07%,118,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/NO.png,NO,Norway,"5,434,319",323.8K,364.3K,15,0.74%,0.07%,119,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/LR.png,LR,Liberia,"5,302,681",111.4K,96.3K,56,2.18%,0.07%,120,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/PS.png,PS,Palestine,"5,250,072",6.2K,6K,892,2.31%,0.07%,121,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/LB.png,LB,Lebanon,"5,489,739",10.5K,10.2K,523,-2.47%,0.07%,122,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/NZ.png,NZ,New Zealand,"5,185,288",270.5K,263.3K,20,0.83%,0.07%,123,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/CR.png,CR,Costa Rica,"5,180,829",51.1K,51.1K,102,0.6%,0.07%,124,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/IE.png,IE,Ireland,"5,023,109",70.3K,68.9K,73,0.67%,0.06%,125,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/MR.png,MR,Mauritania,"4,736,139",1M,1M,5,2.68%,0.06%,126,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/OM.png,OM,Oman,"4,576,298",309.5K,309.5K,15,1.49%,0.06%,127,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/PA.png,PA,Panama,"4,408,581",75.4K,74.2K,60,1.35%,0.06%,128,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/KW.png,KW,Kuwait,"4,268,873",17.8K,17.8K,242,0.97%,0.05%,129,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/HR.png,HR,Croatia,"4,030,358",56.6K,56K,72,-0.54%,0.05%,130,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/ER.png,ER,Eritrea,"3,684,032",117.6K,121K,31,1.76%,0.05%,131,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/GE.png,GE,Georgia,"3,744,385",69.7K,69.5K,54,-0.43%,0.05%,132,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/MN.png,MN,Mongolia,"3,398,366",1.6M,1.6M,2,1.44%,0.04%,133,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/MD.png,MD,Moldova,"3,272,996",33.8K,32.9K,104,4.98%,0.04%,134,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/UY.png,UY,Uruguay,"3,422,794",181K,175K,20,0.01%,0.04%,135,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/PR.png,PR,Puerto Rico,"3,252,407",8.9K,8.9K,368,0.24%,0.04%,136,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/BA.png,BA,Bosnia And Herzegovina,"3,233,526",51.2K,51.2K,63,-0.7%,0.04%,137,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/AL.png,AL,Albania,"2,842,321",28.7K,27.4K,103,-0.35%,0.04%,138,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/JM.png,JM,Jamaica,"2,827,377",11K,10.8K,261,-0.06%,0.04%,139,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/AM.png,AM,Armenia,"2,780,469",29.7K,28.5K,98,-0.09%,0.03%,140,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/GM.png,GM,Gambia,"2,705,992",10.7K,10.1K,274,2.48%,0.03%,141,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/LT.png,LT,Lithuania,"2,750,055",65.3K,62.6K,43,-1.15%,0.03%,142,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/QA.png,QA,Qatar,"2,695,122",11.6K,11.5K,236,0.79%,0.03%,143,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/BW.png,BW,Botswana,"2,630,296",582K,566.7K,5,1.71%,0.03%,144,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/NA.png,NA,Namibia,"2,567,012",825.6K,823.3K,3,1.45%,0.03%,145,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/GA.png,GA,Gabon,"2,388,992",267.7K,257.7K,9,1.99%,0.03%,146,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/LS.png,LS,Lesotho,"2,305,825",30.4K,30.4K,77,1.06%,0.03%,147,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/GW.png,GW,Guinea Bissau,"2,105,566",36.1K,28.1K,76,2.15%,0.03%,148,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/SI.png,SI,Slovenia,"2,119,844",20.3K,20.1K,105,-0.01%,0.03%,149,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/MK.png,MK,North Macedonia,"2,093,599",25.7K,25.2K,83,-0.38%,0.03%,150,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/LV.png,LV,Latvia,"1,850,651",64.6K,62.2K,29,-1.1%,0.02%,151,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/GQ.png,GQ,Equatorial Guinea,"1,674,908",28.1K,28.1K,61,2.37%,0.02%,152,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/TT.png,TT,Trinidad And Tobago,"1,531,044",5.1K,5.1K,299,0.25%,0.02%,153,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/BH.png,BH,Bahrain,"1,472,233",765,785,"1,892",0.9%,0.02%,154,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/TL.png,TL,Timor Leste,"1,341,296",14.9K,14.9K,91,1.44%,0.02%,155,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/EE.png,EE,Estonia,"1,326,062",45.2K,42.8K,31,-0.25%,0.02%,156,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/MU.png,MU,Mauritius,"1,299,469",2K,2K,641,0.08%,0.02%,157,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/CY.png,CY,Cyprus,"1,251,488",9.3K,9.2K,136,0.69%,0.02%,158,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/SZ.png,SZ,Eswatini,"1,201,670",17.4K,17.2K,70,0.76%,0.02%,159,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/DJ.png,DJ,Djibouti,"1,120,849",23.2K,23.2K,49,1.39%,0.01%,160,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/RE.png,RE,Reunion,"974,052",2.5K,2.5K,391,0.8%,0.01%,161,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/FJ.png,FJ,Fiji,"929,766",18.3K,18.3K,51,0.71%,0.01%,162,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/KM.png,KM,Comoros,"836,774",1.9K,1.9K,458,1.83%,0.01%,163,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/GY.png,GY,Guyana,"808,726",215K,196.8K,4,0.63%,0.01%,164,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/BT.png,BT,Bhutan,"782,455",38.4K,38.1K,21,0.64%,0.01%,165,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/SB.png,SB,Solomon Islands,"724,273",28.9K,28K,26,2.23%,0.01%,166,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/MO.png,MO,Macau,"695,168",33,33,"21,403",1.29%,0.01%,167,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/LU.png,LU,Luxembourg,"647,599",2.6K,2.6K,254,1.11%,0.01%,168,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/ME.png,ME,Montenegro,"627,082",13.8K,13.4K,47,-0.1%,0.01%,169,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/SR.png,SR,Suriname,"618,040",163.8K,156K,4,0.84%,0.01%,170,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/CV.png,CV,Cape Verde,"593,149",4K,4K,148,0.93%,0.01%,171,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/EH.png,EH,Western Sahara,"575,986",266K,266K,2,1.96%,0.01%,172,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/MT.png,MT,Malta,"533,286",316,320,"1,672",0.33%,0.01%,173,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/MV.png,MV,Maldives,"523,787",300,300,"1,737",-0.53%,0.01%,174,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/BN.png,BN,Brunei,"449,002",5.8K,5.3K,86,0.78%,0.01%,175,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/BS.png,BS,Bahamas,"409,984",13.9K,10K,41,0.64%,0.01%,176,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/BZ.png,BZ,Belize,"405,272",23K,22.8K,18,1.37%,0.01%,177,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/GP.png,GP,Guadeloupe,"395,752",1.6K,1.6K,243,0.02%,0%,178,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/IS.png,IS,Iceland,"372,899",103K,100.8K,4,0.65%,0%,179,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/MQ.png,MQ,Martinique,"367,507",1.1K,1.1K,325,-0.14%,0%,180,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/YT.png,YT,Mayotte,"326,101",374,374,898,3.03%,0%,181,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/VU.png,VU,Vanuatu,"326,740",12.2K,12.2K,27,2.38%,0%,182,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/GF.png,GF,French Guiana,"304,557",83.5K,83.5K,4,2.49%,0%,183,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/PF.png,PF,French Polynesia,"306,279",4.2K,3.5K,89,0.85%,0%,184,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/NC.png,NC,New Caledonia,"289,950",18.6K,18.3K,16,1.05%,0%,185,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/BB.png,BB,Barbados,"281,635",430,430,656,0.13%,0%,186,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/ST.png,ST,Sao Tome And Principe,"227,380",964,960,242,1.97%,0%,187,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/WS.png,WS,Samoa,"222,382",2.8K,2.8K,81,1.48%,0%,188,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/CW.png,CW,Curacao,"191,163",444,444,433,0.48%,0%,189,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/LC.png,LC,Saint Lucia,"179,857",616,610,295,0.22%,0%,190,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/GU.png,GU,Guam,"171,774",549,540,320,0.69%,0%,191,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/KI.png,KI,Kiribati,"131,232",811,810,165,1.74%,0%,192,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/GD.png,GD,Grenada,"125,438",344,340,371,0.59%,0%,193,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/FM.png,FM,Micronesia,"114,164",702,700,165,0.93%,0%,194,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/JE.png,JE,Jersey,"110,778",116,120,932,0.92%,0%,195,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/TO.png,TO,Tonga,"106,858",747,720,150,0.86%,0%,196,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/SC.png,SC,Seychelles,"107,118",452,460,234,0.51%,0%,197,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/AW.png,AW,Aruba,"106,445",180,180,590,-0.16%,0%,198,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/VC.png,VC,Saint Vincent And The Grenadines,"103,948",389,390,266,-0.24%,0%,199,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/VI.png,VI,United States Virgin Islands,"99,465",347,347,285,-0.72%,0%,200,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/AG.png,AG,Antigua And Barbuda,"93,763",442,440,214,0.57%,0%,201,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/IM.png,IM,Isle Of Man,"84,519",572,570,149,0.23%,0%,202,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/AD.png,AD,Andorra,"79,824",468,470,170,0.33%,0%,203,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/DM.png,DM,Dominica,"72,737",751,750,97,0.42%,0%,204,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/KY.png,KY,Cayman Islands,"68,706",264,240,289,0.88%,0%,205,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/BM.png,BM,Bermuda,"64,184",54,54,"1,186",-0.18%,0%,206,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/GG.png,GG,Guernsey,"63,301",78,63,"1,009",0.38%,0%,207,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/GL.png,GL,Greenland,"56,466",2.2M,410.4K,0.14,0.31%,0%,208,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/FO.png,FO,Faroe Islands,"53,090",1.4K,1.4K,39,0.34%,0%,209,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/MP.png,MP,Northern Mariana Islands,"49,551",464,460,108,0.49%,0%,210,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/KN.png,KN,Saint Kitts And Nevis,"47,657",261,260,184,0.21%,0%,211,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/TC.png,TC,Turks And Caicos Islands,"45,703",948,948,49,0.79%,0%,212,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/SX.png,SX,Sint Maarten,"44,175",34,34,"1,301",0.11%,0%,213,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/AS.png,AS,American Samoa,"44,273",199,200,220,-0.81%,0%,214,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/MH.png,MH,Marshall Islands,"41,569",181,180,233,1.03%,0%,215,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/LI.png,LI,Liechtenstein,"39,327",160,160,247,0.65%,0%,216,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/MC.png,MC,Monaco,"36,469",2,2,"18,149",-0.47%,0%,217,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/SM.png,SM,San Marino,"33,660",61,60,561,-0.05%,0%,218,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/GI.png,GI,Gibraltar,"32,649",7,7,"4,807",0.12%,0%,219,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/MF.png,MF,Saint Martin,"31,791",53,50,642,0.9%,0%,220,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/VG.png,VG,British Virgin Islands,"31,305",151,150,210,0.74%,0%,221,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/PW.png,PW,Palau,"18,055",459,460,39,0.02%,0%,222,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/CK.png,CK,Cook Islands,"17,011",240,240,71,0.19%,0%,223,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/AI.png,AI,Anguilla,"15,857",91,91,175,0.26%,0%,224,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/NR.png,NR,Nauru,"12,668",21,20,639,0.88%,0%,225,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/WF.png,WF,Wallis And Futuna,"11,572",274,274,42,-0.6%,0%,226,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/TV.png,TV,Tuvalu,"11,312",26,30,380,0.74%,0%,227,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/BL.png,BL,Saint Barthelemy,"10,967",21,25,440,0.25%,0%,228,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/PM.png,PM,Saint Pierre And Miquelon,"5,862",242,242,24,-0.38%,,229,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/MS.png,MS,Montserrat,"4,390",102,102,43,-0.09%,,230,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/FK.png,FK,Falkland Islands,"3,780",12.2K,12.2K,0.31,0.29%,,231,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/NU.png,NU,Niue,"1,934",261,261,7,0.05%,,232,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/TK.png,TK,Tokelau,"1,871",12,10,189,1.18%,,233,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/VA.png,VA,Vatican City,510,< 1,< 1,"1,177",1.57%,,234,2022
+https://s3.amazonaws.com/images.wpr.com/flags/24/IN.png,IN,India,"1,417,173,173",3.3M,3M,481,0.81%,17.85%,1,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/CN.png,CN,China,"1,425,887,337",9.7M,9.4M,151,-0.02%,17.81%,2,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/US.png,US,United States,"338,289,857",9.4M,9.1M,37,0.5%,4.25%,3,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/ID.png,ID,Indonesia,"275,501,339",1.9M,1.9M,148,0.74%,3.47%,4,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/PK.png,PK,Pakistan,"235,824,862",881.9K,770.9K,312,1.98%,3%,5,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/NG.png,NG,Nigeria,"218,541,212",923.8K,910.8K,246,2.41%,2.8%,6,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/BR.png,BR,Brazil,"215,313,498",8.5M,8.4M,26,0.52%,2.7%,7,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/BD.png,BD,Bangladesh,"171,186,372",147.6K,130.2K,"1,329",1.03%,2.16%,8,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/RU.png,RU,Russia,"144,713,314",17.1M,16.4M,9,-0.19%,1.8%,9,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/MX.png,MX,Mexico,"127,504,125",2M,1.9M,66,0.75%,1.6%,10,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/ET.png,ET,Ethiopia,"123,379,924",1.1M,1.1M,112,2.55%,1.58%,11,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/JP.png,JP,Japan,"123,951,692",377.9K,364.5K,338,-0.53%,1.54%,12,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/PH.png,PH,Philippines,"115,559,009",342.4K,298.2K,394,1.54%,1.47%,13,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/EG.png,EG,Egypt,"110,990,103",1M,1M,113,1.56%,1.41%,14,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/CD.png,CD,Dr Congo,"99,010,212",2.3M,2.3M,45,3.29%,1.28%,15,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/VN.png,VN,Vietnam,"98,186,856",331.2K,313.4K,315,0.68%,1.23%,16,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/IR.png,IR,Iran,"88,550,570",1.6M,1.6M,55,0.7%,1.11%,17,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/TR.png,TR,Turkey,"85,341,241",783.6K,783.6K,110,0.56%,1.07%,18,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/DE.png,DE,Germany,"83,369,843",357.1K,349.4K,238,-0.09%,1.04%,19,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/TH.png,TH,Thailand,"71,697,030",513.1K,510.9K,141,0.15%,0.9%,20,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/GB.png,GB,United Kingdom,"67,508,936",242.9K,241.9K,280,0.34%,0.85%,21,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/TZ.png,TZ,Tanzania,"65,497,748",945.1K,885.8K,76,2.96%,0.84%,22,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/FR.png,FR,France,"64,626,628",551.7K,547.6K,118,0.2%,0.81%,23,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/ZA.png,ZA,South Africa,"59,893,885",1.2M,1.2M,50,0.87%,0.75%,24,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/IT.png,IT,Italy,"59,037,474",301.3K,295.7K,199,-0.28%,0.74%,25,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/KE.png,KE,Kenya,"54,027,487",580.4K,569.1K,97,1.99%,0.69%,26,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/MM.png,MM,Myanmar,"54,179,306",676.6K,652.7K,84,0.74%,0.68%,27,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/CO.png,CO,Colombia,"51,874,024",1.1M,1.1M,47,0.41%,0.65%,28,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/KR.png,KR,South Korea,"51,815,810",100.2K,97.6K,531,-0.06%,0.65%,29,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/UG.png,UG,Uganda,"47,249,585",241.6K,200.5K,242,2.82%,0.61%,30,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/SD.png,SD,Sudan,"46,874,204",1.9M,1.9M,26,2.63%,0.6%,31,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/ES.png,ES,Spain,"47,558,630",506K,499.6K,95,-0.08%,0.59%,32,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/AR.png,AR,Argentina,"45,510,318",2.8M,2.7M,17,0.58%,0.57%,33,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/DZ.png,DZ,Algeria,"44,903,225",2.4M,2.4M,19,1.57%,0.57%,34,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/IQ.png,IQ,Iraq,"44,496,122",438.3K,434.1K,105,2.27%,0.57%,35,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/AF.png,AF,Afghanistan,"41,128,771",652.2K,652.2K,65,2.7%,0.53%,36,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/PL.png,PL,Poland,"39,857,145",312.7K,306.1K,134,2.93%,0.51%,37,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/CA.png,CA,Canada,"38,454,327",10M,9M,4,0.85%,0.48%,38,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/MA.png,MA,Morocco,"37,457,971",446.6K,446.3K,85,1.02%,0.47%,39,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/SA.png,SA,Saudi Arabia,"36,408,820",2.1M,2.1M,17,1.48%,0.46%,40,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/UA.png,UA,Ukraine,"39,701,739",603.5K,579.4K,63,-7.45%,0.46%,41,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/AO.png,AO,Angola,"35,588,987",1.2M,1.2M,29,3.08%,0.46%,42,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/UZ.png,UZ,Uzbekistan,"34,627,652",447.4K,440.6K,80,1.55%,0.44%,43,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/YE.png,YE,Yemen,"33,696,614",528K,528K,65,2.24%,0.43%,44,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/PE.png,PE,Peru,"34,049,588",1.3M,1.3M,27,0.89%,0.43%,45,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/MY.png,MY,Malaysia,"33,938,221",330.8K,328.6K,104,1.09%,0.43%,46,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/GH.png,GH,Ghana,"33,475,870",238.5K,227.5K,150,1.93%,0.43%,47,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/MZ.png,MZ,Mozambique,"32,969,518",801.6K,786.4K,43,2.81%,0.42%,48,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/NP.png,NP,Nepal,"30,547,580",147.2K,143.3K,216,1.14%,0.39%,49,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/MG.png,MG,Madagascar,"29,611,714",587K,581.8K,52,2.41%,0.38%,50,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/CI.png,CI,Ivory Coast,"28,160,542",322.5K,318K,91,2.53%,0.36%,51,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/VE.png,VE,Venezuela,"28,301,696",916.4K,882K,33,1.9%,0.36%,52,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/CM.png,CM,Cameroon,"27,914,536",475.4K,472.7K,61,2.63%,0.36%,53,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/NE.png,NE,Niger,"26,207,977",1.3M,1.3M,21,3.8%,0.34%,54,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/AU.png,AU,Australia,"26,177,413",7.7M,7.7M,3,1%,0.33%,55,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/KP.png,KP,North Korea,"26,069,416",120.5K,120.4K,217,0.35%,0.33%,56,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/TW.png,TW,Taiwan,"23,893,394",36.2K,36.2K,661,0.13%,0.3%,57,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/ML.png,ML,Mali,"22,593,590",1.2M,1.2M,19,3.1%,0.29%,58,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/BF.png,BF,Burkina Faso,"22,673,762",273K,273.6K,85,2.55%,0.29%,59,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/SY.png,SY,Syria,"22,125,249",185.2K,183.6K,126,4.98%,0.29%,60,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/LK.png,LK,Sri Lanka,"21,832,143",65.6K,61.9K,354,0.28%,0.27%,61,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/MW.png,MW,Malawi,"20,405,317",118.5K,94.3K,222,2.58%,0.26%,62,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/ZM.png,ZM,Zambia,"20,017,675",752.6K,743.4K,28,2.76%,0.26%,63,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/RO.png,RO,Romania,"19,659,267",238.4K,230.1K,86,1.19%,0.25%,64,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/CL.png,CL,Chile,"19,603,733",756.1K,743.5K,26,0.13%,0.25%,65,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/KZ.png,KZ,Kazakhstan,"19,397,998",2.7M,2.7M,7,1.08%,0.24%,66,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/TD.png,TD,Chad,"17,723,315",1.3M,1.3M,15,3.13%,0.23%,67,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/EC.png,EC,Ecuador,"18,001,000",276.8K,248.4K,73,1.05%,0.23%,68,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/SO.png,SO,Somalia,"17,597,511",637.7K,627.3K,29,3.1%,0.23%,69,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/GT.png,GT,Guatemala,"17,843,908",108.9K,107.2K,169,1.39%,0.23%,70,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/SN.png,SN,Senegal,"17,316,449",196.7K,192.5K,92,2.58%,0.22%,71,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/NL.png,NL,Netherlands,"17,564,014",41.9K,33.7K,523,0.31%,0.22%,72,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/KH.png,KH,Cambodia,"16,767,842",181K,176.5K,96,1.06%,0.21%,73,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/ZW.png,ZW,Zimbabwe,"16,320,537",390.8K,386.9K,43,2.11%,0.21%,74,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/GN.png,GN,Guinea,"13,859,341",245.9K,245.7K,58,2.39%,0.18%,75,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/RW.png,RW,Rwanda,"13,776,698",26.3K,24.7K,571,2.31%,0.18%,76,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/BJ.png,BJ,Benin,"13,352,864",112.6K,112.8K,122,2.7%,0.17%,77,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/BI.png,BI,Burundi,"12,889,576",27.8K,25.7K,516,2.71%,0.17%,78,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/TN.png,TN,Tunisia,"12,356,117",163.6K,155.4K,80,0.83%,0.16%,79,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/BO.png,BO,Bolivia,"12,224,110",1.1M,1.1M,11,1.35%,0.15%,80,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/HT.png,HT,Haiti,"11,584,996",27.8K,27.6K,425,1.21%,0.15%,81,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/BE.png,BE,Belgium,"11,655,930",30.5K,30.3K,386,0.26%,0.15%,82,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/JO.png,JO,Jordan,"11,285,869",89.3K,88.8K,128,0.45%,0.14%,83,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/DO.png,DO,Dominican Republic,"11,228,821",48.7K,48.3K,235,0.93%,0.14%,84,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/CU.png,CU,Cuba,"11,212,191",109.9K,103.8K,108,-0.16%,0.14%,85,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/SS.png,SS,South Sudan,"10,913,164",619.7K,631.9K,18,1.61%,0.14%,86,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/SE.png,SE,Sweden,"10,549,347",450.3K,407.3K,26,0.59%,0.13%,87,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/HN.png,HN,Honduras,"10,432,860",112.5K,111.9K,95,1.54%,0.13%,88,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/CZ.png,CZ,Czech Republic,"10,493,986",78.9K,77.2K,136,0.01%,0.13%,89,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/AZ.png,AZ,Azerbaijan,"10,358,074",86.6K,82.6K,126,0.53%,0.13%,90,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/GR.png,GR,Greece,"10,384,971",132K,128.9K,80,-0.42%,0.13%,91,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/PG.png,PG,Papua New Guinea,"10,142,619",462.8K,452.9K,23,1.85%,0.13%,92,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/PT.png,PT,Portugal,"10,270,865",92.1K,91.6K,112,-0.23%,0.13%,93,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/HU.png,HU,Hungary,"9,967,308",93K,91.3K,111,1.9%,0.13%,94,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/TJ.png,TJ,Tajikistan,"9,952,787",143.1K,138.8K,73,1.92%,0.13%,95,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/AE.png,AE,United Arab Emirates,"9,441,129",83.6K,71K,134,0.8%,0.12%,96,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/BY.png,BY,Belarus,"9,534,954",207.6K,203K,47,-0.39%,0.12%,97,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/IL.png,IL,Israel,"9,038,309",20.8K,21.6K,424,1.51%,0.11%,98,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/TG.png,TG,Togo,"8,848,699",56.8K,54.4K,166,2.32%,0.11%,99,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/AT.png,AT,Austria,"8,939,617",83.9K,82.5K,109,0.22%,0.11%,100,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/CH.png,CH,Switzerland,"8,740,472",41.3K,39.5K,223,0.64%,0.11%,101,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/SL.png,SL,Sierra Leone,"8,605,718",71.7K,72.2K,122,2.15%,0.11%,102,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/LA.png,LA,Laos,"7,529,475",236.8K,230.8K,33,1.39%,0.1%,103,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/HK.png,HK,Hong Kong,"7,488,865",1.1K,1.1K,"7,135",0.04%,0.09%,104,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/RS.png,RS,Serbia,"7,221,365",88.4K,87.5K,82,-1%,0.09%,105,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/NI.png,NI,Nicaragua,"6,948,392",130.4K,120.3K,59,1.41%,0.09%,106,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/LY.png,LY,Libya,"6,812,341",1.8M,1.8M,4,1.12%,0.09%,107,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/PY.png,PY,Paraguay,"6,780,744",406.8K,397.3K,17,1.19%,0.09%,108,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/KG.png,KG,Kyrgyzstan,"6,630,623",200K,191.8K,35,1.58%,0.08%,109,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/BG.png,BG,Bulgaria,"6,781,953",110.9K,108.6K,62,-1.39%,0.08%,110,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/TM.png,TM,Turkmenistan,"6,430,770",488.1K,469.9K,14,1.33%,0.08%,111,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/SV.png,SV,El Salvador,"6,336,392",21K,20.7K,307,0.45%,0.08%,112,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/CG.png,CG,Republic Of The Congo,"5,970,424",342K,341.5K,18,2.29%,0.08%,113,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/SG.png,SG,Singapore,"5,975,689",710,718,"8,377",0.65%,0.08%,114,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/DK.png,DK,Denmark,"5,882,261",43.1K,40K,148,0.49%,0.07%,115,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/SK.png,SK,Slovakia,"5,643,453",49K,49K,118,2.69%,0.07%,116,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/CF.png,CF,Central African Republic,"5,579,144",623K,623K,9,2.92%,0.07%,117,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/FI.png,FI,Finland,"5,540,745",338.4K,303.9K,18,0.09%,0.07%,118,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/NO.png,NO,Norway,"5,434,319",323.8K,364.3K,15,0.74%,0.07%,119,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/LR.png,LR,Liberia,"5,302,681",111.4K,96.3K,56,2.18%,0.07%,120,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/PS.png,PS,Palestine,"5,250,072",6.2K,6K,892,2.31%,0.07%,121,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/LB.png,LB,Lebanon,"5,489,739",10.5K,10.2K,523,-2.47%,0.07%,122,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/NZ.png,NZ,New Zealand,"5,185,288",270.5K,263.3K,20,0.83%,0.07%,123,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/CR.png,CR,Costa Rica,"5,180,829",51.1K,51.1K,102,0.6%,0.07%,124,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/IE.png,IE,Ireland,"5,023,109",70.3K,68.9K,73,0.67%,0.06%,125,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/MR.png,MR,Mauritania,"4,736,139",1M,1M,5,2.68%,0.06%,126,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/OM.png,OM,Oman,"4,576,298",309.5K,309.5K,15,1.49%,0.06%,127,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/PA.png,PA,Panama,"4,408,581",75.4K,74.2K,60,1.35%,0.06%,128,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/KW.png,KW,Kuwait,"4,268,873",17.8K,17.8K,242,0.97%,0.05%,129,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/HR.png,HR,Croatia,"4,030,358",56.6K,56K,72,-0.54%,0.05%,130,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/ER.png,ER,Eritrea,"3,684,032",117.6K,121K,31,1.76%,0.05%,131,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/GE.png,GE,Georgia,"3,744,385",69.7K,69.5K,54,-0.43%,0.05%,132,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/MN.png,MN,Mongolia,"3,398,366",1.6M,1.6M,2,1.44%,0.04%,133,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/MD.png,MD,Moldova,"3,272,996",33.8K,32.9K,104,4.98%,0.04%,134,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/UY.png,UY,Uruguay,"3,422,794",181K,175K,20,0.01%,0.04%,135,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/PR.png,PR,Puerto Rico,"3,252,407",8.9K,8.9K,368,0.24%,0.04%,136,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/BA.png,BA,Bosnia And Herzegovina,"3,233,526",51.2K,51.2K,63,-0.7%,0.04%,137,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/AL.png,AL,Albania,"2,842,321",28.7K,27.4K,103,-0.35%,0.04%,138,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/JM.png,JM,Jamaica,"2,827,377",11K,10.8K,261,-0.06%,0.04%,139,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/AM.png,AM,Armenia,"2,780,469",29.7K,28.5K,98,-0.09%,0.03%,140,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/GM.png,GM,Gambia,"2,705,992",10.7K,10.1K,274,2.48%,0.03%,141,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/LT.png,LT,Lithuania,"2,750,055",65.3K,62.6K,43,-1.15%,0.03%,142,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/QA.png,QA,Qatar,"2,695,122",11.6K,11.5K,236,0.79%,0.03%,143,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/BW.png,BW,Botswana,"2,630,296",582K,566.7K,5,1.71%,0.03%,144,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/NA.png,NA,Namibia,"2,567,012",825.6K,823.3K,3,1.45%,0.03%,145,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/GA.png,GA,Gabon,"2,388,992",267.7K,257.7K,9,1.99%,0.03%,146,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/LS.png,LS,Lesotho,"2,305,825",30.4K,30.4K,77,1.06%,0.03%,147,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/GW.png,GW,Guinea Bissau,"2,105,566",36.1K,28.1K,76,2.15%,0.03%,148,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/SI.png,SI,Slovenia,"2,119,844",20.3K,20.1K,105,-0.01%,0.03%,149,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/MK.png,MK,North Macedonia,"2,093,599",25.7K,25.2K,83,-0.38%,0.03%,150,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/LV.png,LV,Latvia,"1,850,651",64.6K,62.2K,29,-1.1%,0.02%,151,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/GQ.png,GQ,Equatorial Guinea,"1,674,908",28.1K,28.1K,61,2.37%,0.02%,152,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/TT.png,TT,Trinidad And Tobago,"1,531,044",5.1K,5.1K,299,0.25%,0.02%,153,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/BH.png,BH,Bahrain,"1,472,233",765,785,"1,892",0.9%,0.02%,154,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/TL.png,TL,Timor Leste,"1,341,296",14.9K,14.9K,91,1.44%,0.02%,155,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/EE.png,EE,Estonia,"1,326,062",45.2K,42.8K,31,-0.25%,0.02%,156,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/MU.png,MU,Mauritius,"1,299,469",2K,2K,641,0.08%,0.02%,157,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/CY.png,CY,Cyprus,"1,251,488",9.3K,9.2K,136,0.69%,0.02%,158,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/SZ.png,SZ,Eswatini,"1,201,670",17.4K,17.2K,70,0.76%,0.02%,159,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/DJ.png,DJ,Djibouti,"1,120,849",23.2K,23.2K,49,1.39%,0.01%,160,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/RE.png,RE,Reunion,"974,052",2.5K,2.5K,391,0.8%,0.01%,161,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/FJ.png,FJ,Fiji,"929,766",18.3K,18.3K,51,0.71%,0.01%,162,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/KM.png,KM,Comoros,"836,774",1.9K,1.9K,458,1.83%,0.01%,163,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/GY.png,GY,Guyana,"808,726",215K,196.8K,4,0.63%,0.01%,164,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/BT.png,BT,Bhutan,"782,455",38.4K,38.1K,21,0.64%,0.01%,165,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/SB.png,SB,Solomon Islands,"724,273",28.9K,28K,26,2.23%,0.01%,166,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/MO.png,MO,Macau,"695,168",33,33,"21,403",1.29%,0.01%,167,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/LU.png,LU,Luxembourg,"647,599",2.6K,2.6K,254,1.11%,0.01%,168,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/ME.png,ME,Montenegro,"627,082",13.8K,13.4K,47,-0.1%,0.01%,169,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/SR.png,SR,Suriname,"618,040",163.8K,156K,4,0.84%,0.01%,170,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/CV.png,CV,Cape Verde,"593,149",4K,4K,148,0.93%,0.01%,171,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/EH.png,EH,Western Sahara,"575,986",266K,266K,2,1.96%,0.01%,172,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/MT.png,MT,Malta,"533,286",316,320,"1,672",0.33%,0.01%,173,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/MV.png,MV,Maldives,"523,787",300,300,"1,737",-0.53%,0.01%,174,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/BN.png,BN,Brunei,"449,002",5.8K,5.3K,86,0.78%,0.01%,175,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/BS.png,BS,Bahamas,"409,984",13.9K,10K,41,0.64%,0.01%,176,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/BZ.png,BZ,Belize,"405,272",23K,22.8K,18,1.37%,0.01%,177,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/GP.png,GP,Guadeloupe,"395,752",1.6K,1.6K,243,0.02%,0%,178,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/IS.png,IS,Iceland,"372,899",103K,100.8K,4,0.65%,0%,179,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/MQ.png,MQ,Martinique,"367,507",1.1K,1.1K,325,-0.14%,0%,180,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/YT.png,YT,Mayotte,"326,101",374,374,898,3.03%,0%,181,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/VU.png,VU,Vanuatu,"326,740",12.2K,12.2K,27,2.38%,0%,182,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/GF.png,GF,French Guiana,"304,557",83.5K,83.5K,4,2.49%,0%,183,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/PF.png,PF,French Polynesia,"306,279",4.2K,3.5K,89,0.85%,0%,184,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/NC.png,NC,New Caledonia,"289,950",18.6K,18.3K,16,1.05%,0%,185,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/BB.png,BB,Barbados,"281,635",430,430,656,0.13%,0%,186,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/ST.png,ST,Sao Tome And Principe,"227,380",964,960,242,1.97%,0%,187,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/WS.png,WS,Samoa,"222,382",2.8K,2.8K,81,1.48%,0%,188,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/CW.png,CW,Curacao,"191,163",444,444,433,0.48%,0%,189,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/LC.png,LC,Saint Lucia,"179,857",616,610,295,0.22%,0%,190,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/GU.png,GU,Guam,"171,774",549,540,320,0.69%,0%,191,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/KI.png,KI,Kiribati,"131,232",811,810,165,1.74%,0%,192,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/GD.png,GD,Grenada,"125,438",344,340,371,0.59%,0%,193,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/FM.png,FM,Micronesia,"114,164",702,700,165,0.93%,0%,194,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/JE.png,JE,Jersey,"110,778",116,120,932,0.92%,0%,195,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/TO.png,TO,Tonga,"106,858",747,720,150,0.86%,0%,196,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/SC.png,SC,Seychelles,"107,118",452,460,234,0.51%,0%,197,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/AW.png,AW,Aruba,"106,445",180,180,590,-0.16%,0%,198,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/VC.png,VC,Saint Vincent And The Grenadines,"103,948",389,390,266,-0.24%,0%,199,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/VI.png,VI,United States Virgin Islands,"99,465",347,347,285,-0.72%,0%,200,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/AG.png,AG,Antigua And Barbuda,"93,763",442,440,214,0.57%,0%,201,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/IM.png,IM,Isle Of Man,"84,519",572,570,149,0.23%,0%,202,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/AD.png,AD,Andorra,"79,824",468,470,170,0.33%,0%,203,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/DM.png,DM,Dominica,"72,737",751,750,97,0.42%,0%,204,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/KY.png,KY,Cayman Islands,"68,706",264,240,289,0.88%,0%,205,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/BM.png,BM,Bermuda,"64,184",54,54,"1,186",-0.18%,0%,206,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/GG.png,GG,Guernsey,"63,301",78,63,"1,009",0.38%,0%,207,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/GL.png,GL,Greenland,"56,466",2.2M,410.4K,0.14,0.31%,0%,208,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/FO.png,FO,Faroe Islands,"53,090",1.4K,1.4K,39,0.34%,0%,209,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/MP.png,MP,Northern Mariana Islands,"49,551",464,460,108,0.49%,0%,210,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/KN.png,KN,Saint Kitts And Nevis,"47,657",261,260,184,0.21%,0%,211,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/TC.png,TC,Turks And Caicos Islands,"45,703",948,948,49,0.79%,0%,212,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/SX.png,SX,Sint Maarten,"44,175",34,34,"1,301",0.11%,0%,213,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/AS.png,AS,American Samoa,"44,273",199,200,220,-0.81%,0%,214,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/MH.png,MH,Marshall Islands,"41,569",181,180,233,1.03%,0%,215,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/LI.png,LI,Liechtenstein,"39,327",160,160,247,0.65%,0%,216,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/MC.png,MC,Monaco,"36,469",2,2,"18,149",-0.47%,0%,217,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/SM.png,SM,San Marino,"33,660",61,60,561,-0.05%,0%,218,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/GI.png,GI,Gibraltar,"32,649",7,7,"4,807",0.12%,0%,219,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/MF.png,MF,Saint Martin,"31,791",53,50,642,0.9%,0%,220,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/VG.png,VG,British Virgin Islands,"31,305",151,150,210,0.74%,0%,221,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/PW.png,PW,Palau,"18,055",459,460,39,0.02%,0%,222,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/CK.png,CK,Cook Islands,"17,011",240,240,71,0.19%,0%,223,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/AI.png,AI,Anguilla,"15,857",91,91,175,0.26%,0%,224,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/NR.png,NR,Nauru,"12,668",21,20,639,0.88%,0%,225,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/WF.png,WF,Wallis And Futuna,"11,572",274,274,42,-0.6%,0%,226,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/TV.png,TV,Tuvalu,"11,312",26,30,380,0.74%,0%,227,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/BL.png,BL,Saint Barthelemy,"10,967",21,25,440,0.25%,0%,228,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/PM.png,PM,Saint Pierre And Miquelon,"5,862",242,242,24,-0.38%,,229,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/MS.png,MS,Montserrat,"4,390",102,102,43,-0.09%,,230,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/FK.png,FK,Falkland Islands,"3,780",12.2K,12.2K,0.31,0.29%,,231,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/NU.png,NU,Niue,"1,934",261,261,7,0.05%,,232,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/TK.png,TK,Tokelau,"1,871",12,10,189,1.18%,,233,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/VA.png,VA,Vatican City,510,< 1,< 1,"1,177",1.57%,,234,2050
+https://s3.amazonaws.com/images.wpr.com/flags/24/IN.png,IN,India,"1,417,173,173",3.3M,3M,481,0.81%,17.85%,1,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/CN.png,CN,China,"1,425,887,337",9.7M,9.4M,151,-0.02%,17.81%,2,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/US.png,US,United States,"338,289,857",9.4M,9.1M,37,0.5%,4.25%,3,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/ID.png,ID,Indonesia,"275,501,339",1.9M,1.9M,148,0.74%,3.47%,4,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/PK.png,PK,Pakistan,"235,824,862",881.9K,770.9K,312,1.98%,3%,5,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/NG.png,NG,Nigeria,"218,541,212",923.8K,910.8K,246,2.41%,2.8%,6,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/BR.png,BR,Brazil,"215,313,498",8.5M,8.4M,26,0.52%,2.7%,7,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/BD.png,BD,Bangladesh,"171,186,372",147.6K,130.2K,"1,329",1.03%,2.16%,8,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/RU.png,RU,Russia,"144,713,314",17.1M,16.4M,9,-0.19%,1.8%,9,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/MX.png,MX,Mexico,"127,504,125",2M,1.9M,66,0.75%,1.6%,10,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/ET.png,ET,Ethiopia,"123,379,924",1.1M,1.1M,112,2.55%,1.58%,11,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/JP.png,JP,Japan,"123,951,692",377.9K,364.5K,338,-0.53%,1.54%,12,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/PH.png,PH,Philippines,"115,559,009",342.4K,298.2K,394,1.54%,1.47%,13,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/EG.png,EG,Egypt,"110,990,103",1M,1M,113,1.56%,1.41%,14,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/CD.png,CD,Dr Congo,"99,010,212",2.3M,2.3M,45,3.29%,1.28%,15,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/VN.png,VN,Vietnam,"98,186,856",331.2K,313.4K,315,0.68%,1.23%,16,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/IR.png,IR,Iran,"88,550,570",1.6M,1.6M,55,0.7%,1.11%,17,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/TR.png,TR,Turkey,"85,341,241",783.6K,783.6K,110,0.56%,1.07%,18,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/DE.png,DE,Germany,"83,369,843",357.1K,349.4K,238,-0.09%,1.04%,19,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/TH.png,TH,Thailand,"71,697,030",513.1K,510.9K,141,0.15%,0.9%,20,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/GB.png,GB,United Kingdom,"67,508,936",242.9K,241.9K,280,0.34%,0.85%,21,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/TZ.png,TZ,Tanzania,"65,497,748",945.1K,885.8K,76,2.96%,0.84%,22,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/FR.png,FR,France,"64,626,628",551.7K,547.6K,118,0.2%,0.81%,23,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/ZA.png,ZA,South Africa,"59,893,885",1.2M,1.2M,50,0.87%,0.75%,24,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/IT.png,IT,Italy,"59,037,474",301.3K,295.7K,199,-0.28%,0.74%,25,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/KE.png,KE,Kenya,"54,027,487",580.4K,569.1K,97,1.99%,0.69%,26,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/MM.png,MM,Myanmar,"54,179,306",676.6K,652.7K,84,0.74%,0.68%,27,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/CO.png,CO,Colombia,"51,874,024",1.1M,1.1M,47,0.41%,0.65%,28,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/KR.png,KR,South Korea,"51,815,810",100.2K,97.6K,531,-0.06%,0.65%,29,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/UG.png,UG,Uganda,"47,249,585",241.6K,200.5K,242,2.82%,0.61%,30,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/SD.png,SD,Sudan,"46,874,204",1.9M,1.9M,26,2.63%,0.6%,31,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/ES.png,ES,Spain,"47,558,630",506K,499.6K,95,-0.08%,0.59%,32,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/AR.png,AR,Argentina,"45,510,318",2.8M,2.7M,17,0.58%,0.57%,33,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/DZ.png,DZ,Algeria,"44,903,225",2.4M,2.4M,19,1.57%,0.57%,34,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/IQ.png,IQ,Iraq,"44,496,122",438.3K,434.1K,105,2.27%,0.57%,35,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/AF.png,AF,Afghanistan,"41,128,771",652.2K,652.2K,65,2.7%,0.53%,36,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/PL.png,PL,Poland,"39,857,145",312.7K,306.1K,134,2.93%,0.51%,37,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/CA.png,CA,Canada,"38,454,327",10M,9M,4,0.85%,0.48%,38,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/MA.png,MA,Morocco,"37,457,971",446.6K,446.3K,85,1.02%,0.47%,39,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/SA.png,SA,Saudi Arabia,"36,408,820",2.1M,2.1M,17,1.48%,0.46%,40,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/UA.png,UA,Ukraine,"39,701,739",603.5K,579.4K,63,-7.45%,0.46%,41,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/AO.png,AO,Angola,"35,588,987",1.2M,1.2M,29,3.08%,0.46%,42,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/UZ.png,UZ,Uzbekistan,"34,627,652",447.4K,440.6K,80,1.55%,0.44%,43,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/YE.png,YE,Yemen,"33,696,614",528K,528K,65,2.24%,0.43%,44,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/PE.png,PE,Peru,"34,049,588",1.3M,1.3M,27,0.89%,0.43%,45,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/MY.png,MY,Malaysia,"33,938,221",330.8K,328.6K,104,1.09%,0.43%,46,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/GH.png,GH,Ghana,"33,475,870",238.5K,227.5K,150,1.93%,0.43%,47,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/MZ.png,MZ,Mozambique,"32,969,518",801.6K,786.4K,43,2.81%,0.42%,48,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/NP.png,NP,Nepal,"30,547,580",147.2K,143.3K,216,1.14%,0.39%,49,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/MG.png,MG,Madagascar,"29,611,714",587K,581.8K,52,2.41%,0.38%,50,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/CI.png,CI,Ivory Coast,"28,160,542",322.5K,318K,91,2.53%,0.36%,51,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/VE.png,VE,Venezuela,"28,301,696",916.4K,882K,33,1.9%,0.36%,52,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/CM.png,CM,Cameroon,"27,914,536",475.4K,472.7K,61,2.63%,0.36%,53,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/NE.png,NE,Niger,"26,207,977",1.3M,1.3M,21,3.8%,0.34%,54,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/AU.png,AU,Australia,"26,177,413",7.7M,7.7M,3,1%,0.33%,55,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/KP.png,KP,North Korea,"26,069,416",120.5K,120.4K,217,0.35%,0.33%,56,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/TW.png,TW,Taiwan,"23,893,394",36.2K,36.2K,661,0.13%,0.3%,57,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/ML.png,ML,Mali,"22,593,590",1.2M,1.2M,19,3.1%,0.29%,58,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/BF.png,BF,Burkina Faso,"22,673,762",273K,273.6K,85,2.55%,0.29%,59,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/SY.png,SY,Syria,"22,125,249",185.2K,183.6K,126,4.98%,0.29%,60,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/LK.png,LK,Sri Lanka,"21,832,143",65.6K,61.9K,354,0.28%,0.27%,61,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/MW.png,MW,Malawi,"20,405,317",118.5K,94.3K,222,2.58%,0.26%,62,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/ZM.png,ZM,Zambia,"20,017,675",752.6K,743.4K,28,2.76%,0.26%,63,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/RO.png,RO,Romania,"19,659,267",238.4K,230.1K,86,1.19%,0.25%,64,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/CL.png,CL,Chile,"19,603,733",756.1K,743.5K,26,0.13%,0.25%,65,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/KZ.png,KZ,Kazakhstan,"19,397,998",2.7M,2.7M,7,1.08%,0.24%,66,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/TD.png,TD,Chad,"17,723,315",1.3M,1.3M,15,3.13%,0.23%,67,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/EC.png,EC,Ecuador,"18,001,000",276.8K,248.4K,73,1.05%,0.23%,68,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/SO.png,SO,Somalia,"17,597,511",637.7K,627.3K,29,3.1%,0.23%,69,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/GT.png,GT,Guatemala,"17,843,908",108.9K,107.2K,169,1.39%,0.23%,70,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/SN.png,SN,Senegal,"17,316,449",196.7K,192.5K,92,2.58%,0.22%,71,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/NL.png,NL,Netherlands,"17,564,014",41.9K,33.7K,523,0.31%,0.22%,72,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/KH.png,KH,Cambodia,"16,767,842",181K,176.5K,96,1.06%,0.21%,73,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/ZW.png,ZW,Zimbabwe,"16,320,537",390.8K,386.9K,43,2.11%,0.21%,74,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/GN.png,GN,Guinea,"13,859,341",245.9K,245.7K,58,2.39%,0.18%,75,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/RW.png,RW,Rwanda,"13,776,698",26.3K,24.7K,571,2.31%,0.18%,76,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/BJ.png,BJ,Benin,"13,352,864",112.6K,112.8K,122,2.7%,0.17%,77,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/BI.png,BI,Burundi,"12,889,576",27.8K,25.7K,516,2.71%,0.17%,78,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/TN.png,TN,Tunisia,"12,356,117",163.6K,155.4K,80,0.83%,0.16%,79,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/BO.png,BO,Bolivia,"12,224,110",1.1M,1.1M,11,1.35%,0.15%,80,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/HT.png,HT,Haiti,"11,584,996",27.8K,27.6K,425,1.21%,0.15%,81,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/BE.png,BE,Belgium,"11,655,930",30.5K,30.3K,386,0.26%,0.15%,82,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/JO.png,JO,Jordan,"11,285,869",89.3K,88.8K,128,0.45%,0.14%,83,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/DO.png,DO,Dominican Republic,"11,228,821",48.7K,48.3K,235,0.93%,0.14%,84,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/CU.png,CU,Cuba,"11,212,191",109.9K,103.8K,108,-0.16%,0.14%,85,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/SS.png,SS,South Sudan,"10,913,164",619.7K,631.9K,18,1.61%,0.14%,86,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/SE.png,SE,Sweden,"10,549,347",450.3K,407.3K,26,0.59%,0.13%,87,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/HN.png,HN,Honduras,"10,432,860",112.5K,111.9K,95,1.54%,0.13%,88,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/CZ.png,CZ,Czech Republic,"10,493,986",78.9K,77.2K,136,0.01%,0.13%,89,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/AZ.png,AZ,Azerbaijan,"10,358,074",86.6K,82.6K,126,0.53%,0.13%,90,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/GR.png,GR,Greece,"10,384,971",132K,128.9K,80,-0.42%,0.13%,91,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/PG.png,PG,Papua New Guinea,"10,142,619",462.8K,452.9K,23,1.85%,0.13%,92,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/PT.png,PT,Portugal,"10,270,865",92.1K,91.6K,112,-0.23%,0.13%,93,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/HU.png,HU,Hungary,"9,967,308",93K,91.3K,111,1.9%,0.13%,94,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/TJ.png,TJ,Tajikistan,"9,952,787",143.1K,138.8K,73,1.92%,0.13%,95,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/AE.png,AE,United Arab Emirates,"9,441,129",83.6K,71K,134,0.8%,0.12%,96,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/BY.png,BY,Belarus,"9,534,954",207.6K,203K,47,-0.39%,0.12%,97,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/IL.png,IL,Israel,"9,038,309",20.8K,21.6K,424,1.51%,0.11%,98,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/TG.png,TG,Togo,"8,848,699",56.8K,54.4K,166,2.32%,0.11%,99,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/AT.png,AT,Austria,"8,939,617",83.9K,82.5K,109,0.22%,0.11%,100,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/CH.png,CH,Switzerland,"8,740,472",41.3K,39.5K,223,0.64%,0.11%,101,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/SL.png,SL,Sierra Leone,"8,605,718",71.7K,72.2K,122,2.15%,0.11%,102,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/LA.png,LA,Laos,"7,529,475",236.8K,230.8K,33,1.39%,0.1%,103,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/HK.png,HK,Hong Kong,"7,488,865",1.1K,1.1K,"7,135",0.04%,0.09%,104,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/RS.png,RS,Serbia,"7,221,365",88.4K,87.5K,82,-1%,0.09%,105,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/NI.png,NI,Nicaragua,"6,948,392",130.4K,120.3K,59,1.41%,0.09%,106,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/LY.png,LY,Libya,"6,812,341",1.8M,1.8M,4,1.12%,0.09%,107,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/PY.png,PY,Paraguay,"6,780,744",406.8K,397.3K,17,1.19%,0.09%,108,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/KG.png,KG,Kyrgyzstan,"6,630,623",200K,191.8K,35,1.58%,0.08%,109,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/BG.png,BG,Bulgaria,"6,781,953",110.9K,108.6K,62,-1.39%,0.08%,110,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/TM.png,TM,Turkmenistan,"6,430,770",488.1K,469.9K,14,1.33%,0.08%,111,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/SV.png,SV,El Salvador,"6,336,392",21K,20.7K,307,0.45%,0.08%,112,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/CG.png,CG,Republic Of The Congo,"5,970,424",342K,341.5K,18,2.29%,0.08%,113,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/SG.png,SG,Singapore,"5,975,689",710,718,"8,377",0.65%,0.08%,114,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/DK.png,DK,Denmark,"5,882,261",43.1K,40K,148,0.49%,0.07%,115,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/SK.png,SK,Slovakia,"5,643,453",49K,49K,118,2.69%,0.07%,116,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/CF.png,CF,Central African Republic,"5,579,144",623K,623K,9,2.92%,0.07%,117,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/FI.png,FI,Finland,"5,540,745",338.4K,303.9K,18,0.09%,0.07%,118,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/NO.png,NO,Norway,"5,434,319",323.8K,364.3K,15,0.74%,0.07%,119,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/LR.png,LR,Liberia,"5,302,681",111.4K,96.3K,56,2.18%,0.07%,120,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/PS.png,PS,Palestine,"5,250,072",6.2K,6K,892,2.31%,0.07%,121,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/LB.png,LB,Lebanon,"5,489,739",10.5K,10.2K,523,-2.47%,0.07%,122,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/NZ.png,NZ,New Zealand,"5,185,288",270.5K,263.3K,20,0.83%,0.07%,123,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/CR.png,CR,Costa Rica,"5,180,829",51.1K,51.1K,102,0.6%,0.07%,124,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/IE.png,IE,Ireland,"5,023,109",70.3K,68.9K,73,0.67%,0.06%,125,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/MR.png,MR,Mauritania,"4,736,139",1M,1M,5,2.68%,0.06%,126,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/OM.png,OM,Oman,"4,576,298",309.5K,309.5K,15,1.49%,0.06%,127,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/PA.png,PA,Panama,"4,408,581",75.4K,74.2K,60,1.35%,0.06%,128,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/KW.png,KW,Kuwait,"4,268,873",17.8K,17.8K,242,0.97%,0.05%,129,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/HR.png,HR,Croatia,"4,030,358",56.6K,56K,72,-0.54%,0.05%,130,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/ER.png,ER,Eritrea,"3,684,032",117.6K,121K,31,1.76%,0.05%,131,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/GE.png,GE,Georgia,"3,744,385",69.7K,69.5K,54,-0.43%,0.05%,132,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/MN.png,MN,Mongolia,"3,398,366",1.6M,1.6M,2,1.44%,0.04%,133,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/MD.png,MD,Moldova,"3,272,996",33.8K,32.9K,104,4.98%,0.04%,134,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/UY.png,UY,Uruguay,"3,422,794",181K,175K,20,0.01%,0.04%,135,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/PR.png,PR,Puerto Rico,"3,252,407",8.9K,8.9K,368,0.24%,0.04%,136,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/BA.png,BA,Bosnia And Herzegovina,"3,233,526",51.2K,51.2K,63,-0.7%,0.04%,137,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/AL.png,AL,Albania,"2,842,321",28.7K,27.4K,103,-0.35%,0.04%,138,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/JM.png,JM,Jamaica,"2,827,377",11K,10.8K,261,-0.06%,0.04%,139,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/AM.png,AM,Armenia,"2,780,469",29.7K,28.5K,98,-0.09%,0.03%,140,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/GM.png,GM,Gambia,"2,705,992",10.7K,10.1K,274,2.48%,0.03%,141,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/LT.png,LT,Lithuania,"2,750,055",65.3K,62.6K,43,-1.15%,0.03%,142,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/QA.png,QA,Qatar,"2,695,122",11.6K,11.5K,236,0.79%,0.03%,143,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/BW.png,BW,Botswana,"2,630,296",582K,566.7K,5,1.71%,0.03%,144,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/NA.png,NA,Namibia,"2,567,012",825.6K,823.3K,3,1.45%,0.03%,145,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/GA.png,GA,Gabon,"2,388,992",267.7K,257.7K,9,1.99%,0.03%,146,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/LS.png,LS,Lesotho,"2,305,825",30.4K,30.4K,77,1.06%,0.03%,147,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/GW.png,GW,Guinea Bissau,"2,105,566",36.1K,28.1K,76,2.15%,0.03%,148,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/SI.png,SI,Slovenia,"2,119,844",20.3K,20.1K,105,-0.01%,0.03%,149,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/MK.png,MK,North Macedonia,"2,093,599",25.7K,25.2K,83,-0.38%,0.03%,150,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/LV.png,LV,Latvia,"1,850,651",64.6K,62.2K,29,-1.1%,0.02%,151,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/GQ.png,GQ,Equatorial Guinea,"1,674,908",28.1K,28.1K,61,2.37%,0.02%,152,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/TT.png,TT,Trinidad And Tobago,"1,531,044",5.1K,5.1K,299,0.25%,0.02%,153,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/BH.png,BH,Bahrain,"1,472,233",765,785,"1,892",0.9%,0.02%,154,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/TL.png,TL,Timor Leste,"1,341,296",14.9K,14.9K,91,1.44%,0.02%,155,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/EE.png,EE,Estonia,"1,326,062",45.2K,42.8K,31,-0.25%,0.02%,156,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/MU.png,MU,Mauritius,"1,299,469",2K,2K,641,0.08%,0.02%,157,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/CY.png,CY,Cyprus,"1,251,488",9.3K,9.2K,136,0.69%,0.02%,158,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/SZ.png,SZ,Eswatini,"1,201,670",17.4K,17.2K,70,0.76%,0.02%,159,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/DJ.png,DJ,Djibouti,"1,120,849",23.2K,23.2K,49,1.39%,0.01%,160,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/RE.png,RE,Reunion,"974,052",2.5K,2.5K,391,0.8%,0.01%,161,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/FJ.png,FJ,Fiji,"929,766",18.3K,18.3K,51,0.71%,0.01%,162,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/KM.png,KM,Comoros,"836,774",1.9K,1.9K,458,1.83%,0.01%,163,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/GY.png,GY,Guyana,"808,726",215K,196.8K,4,0.63%,0.01%,164,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/BT.png,BT,Bhutan,"782,455",38.4K,38.1K,21,0.64%,0.01%,165,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/SB.png,SB,Solomon Islands,"724,273",28.9K,28K,26,2.23%,0.01%,166,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/MO.png,MO,Macau,"695,168",33,33,"21,403",1.29%,0.01%,167,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/LU.png,LU,Luxembourg,"647,599",2.6K,2.6K,254,1.11%,0.01%,168,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/ME.png,ME,Montenegro,"627,082",13.8K,13.4K,47,-0.1%,0.01%,169,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/SR.png,SR,Suriname,"618,040",163.8K,156K,4,0.84%,0.01%,170,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/CV.png,CV,Cape Verde,"593,149",4K,4K,148,0.93%,0.01%,171,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/EH.png,EH,Western Sahara,"575,986",266K,266K,2,1.96%,0.01%,172,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/MT.png,MT,Malta,"533,286",316,320,"1,672",0.33%,0.01%,173,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/MV.png,MV,Maldives,"523,787",300,300,"1,737",-0.53%,0.01%,174,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/BN.png,BN,Brunei,"449,002",5.8K,5.3K,86,0.78%,0.01%,175,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/BS.png,BS,Bahamas,"409,984",13.9K,10K,41,0.64%,0.01%,176,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/BZ.png,BZ,Belize,"405,272",23K,22.8K,18,1.37%,0.01%,177,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/GP.png,GP,Guadeloupe,"395,752",1.6K,1.6K,243,0.02%,0%,178,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/IS.png,IS,Iceland,"372,899",103K,100.8K,4,0.65%,0%,179,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/MQ.png,MQ,Martinique,"367,507",1.1K,1.1K,325,-0.14%,0%,180,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/YT.png,YT,Mayotte,"326,101",374,374,898,3.03%,0%,181,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/VU.png,VU,Vanuatu,"326,740",12.2K,12.2K,27,2.38%,0%,182,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/GF.png,GF,French Guiana,"304,557",83.5K,83.5K,4,2.49%,0%,183,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/PF.png,PF,French Polynesia,"306,279",4.2K,3.5K,89,0.85%,0%,184,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/NC.png,NC,New Caledonia,"289,950",18.6K,18.3K,16,1.05%,0%,185,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/BB.png,BB,Barbados,"281,635",430,430,656,0.13%,0%,186,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/ST.png,ST,Sao Tome And Principe,"227,380",964,960,242,1.97%,0%,187,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/WS.png,WS,Samoa,"222,382",2.8K,2.8K,81,1.48%,0%,188,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/CW.png,CW,Curacao,"191,163",444,444,433,0.48%,0%,189,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/LC.png,LC,Saint Lucia,"179,857",616,610,295,0.22%,0%,190,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/GU.png,GU,Guam,"171,774",549,540,320,0.69%,0%,191,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/KI.png,KI,Kiribati,"131,232",811,810,165,1.74%,0%,192,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/GD.png,GD,Grenada,"125,438",344,340,371,0.59%,0%,193,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/FM.png,FM,Micronesia,"114,164",702,700,165,0.93%,0%,194,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/JE.png,JE,Jersey,"110,778",116,120,932,0.92%,0%,195,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/TO.png,TO,Tonga,"106,858",747,720,150,0.86%,0%,196,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/SC.png,SC,Seychelles,"107,118",452,460,234,0.51%,0%,197,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/AW.png,AW,Aruba,"106,445",180,180,590,-0.16%,0%,198,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/VC.png,VC,Saint Vincent And The Grenadines,"103,948",389,390,266,-0.24%,0%,199,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/VI.png,VI,United States Virgin Islands,"99,465",347,347,285,-0.72%,0%,200,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/AG.png,AG,Antigua And Barbuda,"93,763",442,440,214,0.57%,0%,201,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/IM.png,IM,Isle Of Man,"84,519",572,570,149,0.23%,0%,202,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/AD.png,AD,Andorra,"79,824",468,470,170,0.33%,0%,203,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/DM.png,DM,Dominica,"72,737",751,750,97,0.42%,0%,204,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/KY.png,KY,Cayman Islands,"68,706",264,240,289,0.88%,0%,205,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/BM.png,BM,Bermuda,"64,184",54,54,"1,186",-0.18%,0%,206,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/GG.png,GG,Guernsey,"63,301",78,63,"1,009",0.38%,0%,207,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/GL.png,GL,Greenland,"56,466",2.2M,410.4K,0.14,0.31%,0%,208,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/FO.png,FO,Faroe Islands,"53,090",1.4K,1.4K,39,0.34%,0%,209,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/MP.png,MP,Northern Mariana Islands,"49,551",464,460,108,0.49%,0%,210,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/KN.png,KN,Saint Kitts And Nevis,"47,657",261,260,184,0.21%,0%,211,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/TC.png,TC,Turks And Caicos Islands,"45,703",948,948,49,0.79%,0%,212,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/SX.png,SX,Sint Maarten,"44,175",34,34,"1,301",0.11%,0%,213,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/AS.png,AS,American Samoa,"44,273",199,200,220,-0.81%,0%,214,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/MH.png,MH,Marshall Islands,"41,569",181,180,233,1.03%,0%,215,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/LI.png,LI,Liechtenstein,"39,327",160,160,247,0.65%,0%,216,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/MC.png,MC,Monaco,"36,469",2,2,"18,149",-0.47%,0%,217,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/SM.png,SM,San Marino,"33,660",61,60,561,-0.05%,0%,218,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/GI.png,GI,Gibraltar,"32,649",7,7,"4,807",0.12%,0%,219,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/MF.png,MF,Saint Martin,"31,791",53,50,642,0.9%,0%,220,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/VG.png,VG,British Virgin Islands,"31,305",151,150,210,0.74%,0%,221,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/PW.png,PW,Palau,"18,055",459,460,39,0.02%,0%,222,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/CK.png,CK,Cook Islands,"17,011",240,240,71,0.19%,0%,223,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/AI.png,AI,Anguilla,"15,857",91,91,175,0.26%,0%,224,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/NR.png,NR,Nauru,"12,668",21,20,639,0.88%,0%,225,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/WF.png,WF,Wallis And Futuna,"11,572",274,274,42,-0.6%,0%,226,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/TV.png,TV,Tuvalu,"11,312",26,30,380,0.74%,0%,227,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/BL.png,BL,Saint Barthelemy,"10,967",21,25,440,0.25%,0%,228,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/PM.png,PM,Saint Pierre And Miquelon,"5,862",242,242,24,-0.38%,,229,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/MS.png,MS,Montserrat,"4,390",102,102,43,-0.09%,,230,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/FK.png,FK,Falkland Islands,"3,780",12.2K,12.2K,0.31,0.29%,,231,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/NU.png,NU,Niue,"1,934",261,261,7,0.05%,,232,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/TK.png,TK,Tokelau,"1,871",12,10,189,1.18%,,233,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/VA.png,VA,Vatican City,510,< 1,< 1,"1,177",1.57%,,234,2030
+https://s3.amazonaws.com/images.wpr.com/flags/24/IN.png,IN,India,"1,417,173,173",3.3M,3M,481,0.81%,17.85%,1,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/CN.png,CN,China,"1,425,887,337",9.7M,9.4M,151,-0.02%,17.81%,2,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/US.png,US,United States,"338,289,857",9.4M,9.1M,37,0.5%,4.25%,3,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/ID.png,ID,Indonesia,"275,501,339",1.9M,1.9M,148,0.74%,3.47%,4,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/PK.png,PK,Pakistan,"235,824,862",881.9K,770.9K,312,1.98%,3%,5,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/NG.png,NG,Nigeria,"218,541,212",923.8K,910.8K,246,2.41%,2.8%,6,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/BR.png,BR,Brazil,"215,313,498",8.5M,8.4M,26,0.52%,2.7%,7,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/BD.png,BD,Bangladesh,"171,186,372",147.6K,130.2K,"1,329",1.03%,2.16%,8,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/RU.png,RU,Russia,"144,713,314",17.1M,16.4M,9,-0.19%,1.8%,9,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/MX.png,MX,Mexico,"127,504,125",2M,1.9M,66,0.75%,1.6%,10,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/ET.png,ET,Ethiopia,"123,379,924",1.1M,1.1M,112,2.55%,1.58%,11,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/JP.png,JP,Japan,"123,951,692",377.9K,364.5K,338,-0.53%,1.54%,12,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/PH.png,PH,Philippines,"115,559,009",342.4K,298.2K,394,1.54%,1.47%,13,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/EG.png,EG,Egypt,"110,990,103",1M,1M,113,1.56%,1.41%,14,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/CD.png,CD,Dr Congo,"99,010,212",2.3M,2.3M,45,3.29%,1.28%,15,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/VN.png,VN,Vietnam,"98,186,856",331.2K,313.4K,315,0.68%,1.23%,16,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/IR.png,IR,Iran,"88,550,570",1.6M,1.6M,55,0.7%,1.11%,17,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/TR.png,TR,Turkey,"85,341,241",783.6K,783.6K,110,0.56%,1.07%,18,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/DE.png,DE,Germany,"83,369,843",357.1K,349.4K,238,-0.09%,1.04%,19,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/TH.png,TH,Thailand,"71,697,030",513.1K,510.9K,141,0.15%,0.9%,20,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/GB.png,GB,United Kingdom,"67,508,936",242.9K,241.9K,280,0.34%,0.85%,21,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/TZ.png,TZ,Tanzania,"65,497,748",945.1K,885.8K,76,2.96%,0.84%,22,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/FR.png,FR,France,"64,626,628",551.7K,547.6K,118,0.2%,0.81%,23,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/ZA.png,ZA,South Africa,"59,893,885",1.2M,1.2M,50,0.87%,0.75%,24,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/IT.png,IT,Italy,"59,037,474",301.3K,295.7K,199,-0.28%,0.74%,25,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/KE.png,KE,Kenya,"54,027,487",580.4K,569.1K,97,1.99%,0.69%,26,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/MM.png,MM,Myanmar,"54,179,306",676.6K,652.7K,84,0.74%,0.68%,27,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/CO.png,CO,Colombia,"51,874,024",1.1M,1.1M,47,0.41%,0.65%,28,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/KR.png,KR,South Korea,"51,815,810",100.2K,97.6K,531,-0.06%,0.65%,29,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/UG.png,UG,Uganda,"47,249,585",241.6K,200.5K,242,2.82%,0.61%,30,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/SD.png,SD,Sudan,"46,874,204",1.9M,1.9M,26,2.63%,0.6%,31,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/ES.png,ES,Spain,"47,558,630",506K,499.6K,95,-0.08%,0.59%,32,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/AR.png,AR,Argentina,"45,510,318",2.8M,2.7M,17,0.58%,0.57%,33,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/DZ.png,DZ,Algeria,"44,903,225",2.4M,2.4M,19,1.57%,0.57%,34,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/IQ.png,IQ,Iraq,"44,496,122",438.3K,434.1K,105,2.27%,0.57%,35,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/AF.png,AF,Afghanistan,"41,128,771",652.2K,652.2K,65,2.7%,0.53%,36,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/PL.png,PL,Poland,"39,857,145",312.7K,306.1K,134,2.93%,0.51%,37,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/CA.png,CA,Canada,"38,454,327",10M,9M,4,0.85%,0.48%,38,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/MA.png,MA,Morocco,"37,457,971",446.6K,446.3K,85,1.02%,0.47%,39,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/SA.png,SA,Saudi Arabia,"36,408,820",2.1M,2.1M,17,1.48%,0.46%,40,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/UA.png,UA,Ukraine,"39,701,739",603.5K,579.4K,63,-7.45%,0.46%,41,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/AO.png,AO,Angola,"35,588,987",1.2M,1.2M,29,3.08%,0.46%,42,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/UZ.png,UZ,Uzbekistan,"34,627,652",447.4K,440.6K,80,1.55%,0.44%,43,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/YE.png,YE,Yemen,"33,696,614",528K,528K,65,2.24%,0.43%,44,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/PE.png,PE,Peru,"34,049,588",1.3M,1.3M,27,0.89%,0.43%,45,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/MY.png,MY,Malaysia,"33,938,221",330.8K,328.6K,104,1.09%,0.43%,46,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/GH.png,GH,Ghana,"33,475,870",238.5K,227.5K,150,1.93%,0.43%,47,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/MZ.png,MZ,Mozambique,"32,969,518",801.6K,786.4K,43,2.81%,0.42%,48,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/NP.png,NP,Nepal,"30,547,580",147.2K,143.3K,216,1.14%,0.39%,49,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/MG.png,MG,Madagascar,"29,611,714",587K,581.8K,52,2.41%,0.38%,50,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/CI.png,CI,Ivory Coast,"28,160,542",322.5K,318K,91,2.53%,0.36%,51,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/VE.png,VE,Venezuela,"28,301,696",916.4K,882K,33,1.9%,0.36%,52,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/CM.png,CM,Cameroon,"27,914,536",475.4K,472.7K,61,2.63%,0.36%,53,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/NE.png,NE,Niger,"26,207,977",1.3M,1.3M,21,3.8%,0.34%,54,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/AU.png,AU,Australia,"26,177,413",7.7M,7.7M,3,1%,0.33%,55,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/KP.png,KP,North Korea,"26,069,416",120.5K,120.4K,217,0.35%,0.33%,56,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/TW.png,TW,Taiwan,"23,893,394",36.2K,36.2K,661,0.13%,0.3%,57,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/ML.png,ML,Mali,"22,593,590",1.2M,1.2M,19,3.1%,0.29%,58,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/BF.png,BF,Burkina Faso,"22,673,762",273K,273.6K,85,2.55%,0.29%,59,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/SY.png,SY,Syria,"22,125,249",185.2K,183.6K,126,4.98%,0.29%,60,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/LK.png,LK,Sri Lanka,"21,832,143",65.6K,61.9K,354,0.28%,0.27%,61,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/MW.png,MW,Malawi,"20,405,317",118.5K,94.3K,222,2.58%,0.26%,62,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/ZM.png,ZM,Zambia,"20,017,675",752.6K,743.4K,28,2.76%,0.26%,63,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/RO.png,RO,Romania,"19,659,267",238.4K,230.1K,86,1.19%,0.25%,64,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/CL.png,CL,Chile,"19,603,733",756.1K,743.5K,26,0.13%,0.25%,65,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/KZ.png,KZ,Kazakhstan,"19,397,998",2.7M,2.7M,7,1.08%,0.24%,66,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/TD.png,TD,Chad,"17,723,315",1.3M,1.3M,15,3.13%,0.23%,67,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/EC.png,EC,Ecuador,"18,001,000",276.8K,248.4K,73,1.05%,0.23%,68,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/SO.png,SO,Somalia,"17,597,511",637.7K,627.3K,29,3.1%,0.23%,69,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/GT.png,GT,Guatemala,"17,843,908",108.9K,107.2K,169,1.39%,0.23%,70,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/SN.png,SN,Senegal,"17,316,449",196.7K,192.5K,92,2.58%,0.22%,71,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/NL.png,NL,Netherlands,"17,564,014",41.9K,33.7K,523,0.31%,0.22%,72,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/KH.png,KH,Cambodia,"16,767,842",181K,176.5K,96,1.06%,0.21%,73,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/ZW.png,ZW,Zimbabwe,"16,320,537",390.8K,386.9K,43,2.11%,0.21%,74,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/GN.png,GN,Guinea,"13,859,341",245.9K,245.7K,58,2.39%,0.18%,75,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/RW.png,RW,Rwanda,"13,776,698",26.3K,24.7K,571,2.31%,0.18%,76,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/BJ.png,BJ,Benin,"13,352,864",112.6K,112.8K,122,2.7%,0.17%,77,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/BI.png,BI,Burundi,"12,889,576",27.8K,25.7K,516,2.71%,0.17%,78,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/TN.png,TN,Tunisia,"12,356,117",163.6K,155.4K,80,0.83%,0.16%,79,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/BO.png,BO,Bolivia,"12,224,110",1.1M,1.1M,11,1.35%,0.15%,80,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/HT.png,HT,Haiti,"11,584,996",27.8K,27.6K,425,1.21%,0.15%,81,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/BE.png,BE,Belgium,"11,655,930",30.5K,30.3K,386,0.26%,0.15%,82,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/JO.png,JO,Jordan,"11,285,869",89.3K,88.8K,128,0.45%,0.14%,83,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/DO.png,DO,Dominican Republic,"11,228,821",48.7K,48.3K,235,0.93%,0.14%,84,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/CU.png,CU,Cuba,"11,212,191",109.9K,103.8K,108,-0.16%,0.14%,85,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/SS.png,SS,South Sudan,"10,913,164",619.7K,631.9K,18,1.61%,0.14%,86,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/SE.png,SE,Sweden,"10,549,347",450.3K,407.3K,26,0.59%,0.13%,87,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/HN.png,HN,Honduras,"10,432,860",112.5K,111.9K,95,1.54%,0.13%,88,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/CZ.png,CZ,Czech Republic,"10,493,986",78.9K,77.2K,136,0.01%,0.13%,89,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/AZ.png,AZ,Azerbaijan,"10,358,074",86.6K,82.6K,126,0.53%,0.13%,90,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/GR.png,GR,Greece,"10,384,971",132K,128.9K,80,-0.42%,0.13%,91,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/PG.png,PG,Papua New Guinea,"10,142,619",462.8K,452.9K,23,1.85%,0.13%,92,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/PT.png,PT,Portugal,"10,270,865",92.1K,91.6K,112,-0.23%,0.13%,93,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/HU.png,HU,Hungary,"9,967,308",93K,91.3K,111,1.9%,0.13%,94,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/TJ.png,TJ,Tajikistan,"9,952,787",143.1K,138.8K,73,1.92%,0.13%,95,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/AE.png,AE,United Arab Emirates,"9,441,129",83.6K,71K,134,0.8%,0.12%,96,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/BY.png,BY,Belarus,"9,534,954",207.6K,203K,47,-0.39%,0.12%,97,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/IL.png,IL,Israel,"9,038,309",20.8K,21.6K,424,1.51%,0.11%,98,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/TG.png,TG,Togo,"8,848,699",56.8K,54.4K,166,2.32%,0.11%,99,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/AT.png,AT,Austria,"8,939,617",83.9K,82.5K,109,0.22%,0.11%,100,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/CH.png,CH,Switzerland,"8,740,472",41.3K,39.5K,223,0.64%,0.11%,101,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/SL.png,SL,Sierra Leone,"8,605,718",71.7K,72.2K,122,2.15%,0.11%,102,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/LA.png,LA,Laos,"7,529,475",236.8K,230.8K,33,1.39%,0.1%,103,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/HK.png,HK,Hong Kong,"7,488,865",1.1K,1.1K,"7,135",0.04%,0.09%,104,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/RS.png,RS,Serbia,"7,221,365",88.4K,87.5K,82,-1%,0.09%,105,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/NI.png,NI,Nicaragua,"6,948,392",130.4K,120.3K,59,1.41%,0.09%,106,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/LY.png,LY,Libya,"6,812,341",1.8M,1.8M,4,1.12%,0.09%,107,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/PY.png,PY,Paraguay,"6,780,744",406.8K,397.3K,17,1.19%,0.09%,108,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/KG.png,KG,Kyrgyzstan,"6,630,623",200K,191.8K,35,1.58%,0.08%,109,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/BG.png,BG,Bulgaria,"6,781,953",110.9K,108.6K,62,-1.39%,0.08%,110,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/TM.png,TM,Turkmenistan,"6,430,770",488.1K,469.9K,14,1.33%,0.08%,111,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/SV.png,SV,El Salvador,"6,336,392",21K,20.7K,307,0.45%,0.08%,112,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/CG.png,CG,Republic Of The Congo,"5,970,424",342K,341.5K,18,2.29%,0.08%,113,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/SG.png,SG,Singapore,"5,975,689",710,718,"8,377",0.65%,0.08%,114,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/DK.png,DK,Denmark,"5,882,261",43.1K,40K,148,0.49%,0.07%,115,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/SK.png,SK,Slovakia,"5,643,453",49K,49K,118,2.69%,0.07%,116,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/CF.png,CF,Central African Republic,"5,579,144",623K,623K,9,2.92%,0.07%,117,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/FI.png,FI,Finland,"5,540,745",338.4K,303.9K,18,0.09%,0.07%,118,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/NO.png,NO,Norway,"5,434,319",323.8K,364.3K,15,0.74%,0.07%,119,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/LR.png,LR,Liberia,"5,302,681",111.4K,96.3K,56,2.18%,0.07%,120,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/PS.png,PS,Palestine,"5,250,072",6.2K,6K,892,2.31%,0.07%,121,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/LB.png,LB,Lebanon,"5,489,739",10.5K,10.2K,523,-2.47%,0.07%,122,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/NZ.png,NZ,New Zealand,"5,185,288",270.5K,263.3K,20,0.83%,0.07%,123,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/CR.png,CR,Costa Rica,"5,180,829",51.1K,51.1K,102,0.6%,0.07%,124,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/IE.png,IE,Ireland,"5,023,109",70.3K,68.9K,73,0.67%,0.06%,125,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/MR.png,MR,Mauritania,"4,736,139",1M,1M,5,2.68%,0.06%,126,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/OM.png,OM,Oman,"4,576,298",309.5K,309.5K,15,1.49%,0.06%,127,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/PA.png,PA,Panama,"4,408,581",75.4K,74.2K,60,1.35%,0.06%,128,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/KW.png,KW,Kuwait,"4,268,873",17.8K,17.8K,242,0.97%,0.05%,129,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/HR.png,HR,Croatia,"4,030,358",56.6K,56K,72,-0.54%,0.05%,130,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/ER.png,ER,Eritrea,"3,684,032",117.6K,121K,31,1.76%,0.05%,131,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/GE.png,GE,Georgia,"3,744,385",69.7K,69.5K,54,-0.43%,0.05%,132,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/MN.png,MN,Mongolia,"3,398,366",1.6M,1.6M,2,1.44%,0.04%,133,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/MD.png,MD,Moldova,"3,272,996",33.8K,32.9K,104,4.98%,0.04%,134,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/UY.png,UY,Uruguay,"3,422,794",181K,175K,20,0.01%,0.04%,135,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/PR.png,PR,Puerto Rico,"3,252,407",8.9K,8.9K,368,0.24%,0.04%,136,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/BA.png,BA,Bosnia And Herzegovina,"3,233,526",51.2K,51.2K,63,-0.7%,0.04%,137,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/AL.png,AL,Albania,"2,842,321",28.7K,27.4K,103,-0.35%,0.04%,138,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/JM.png,JM,Jamaica,"2,827,377",11K,10.8K,261,-0.06%,0.04%,139,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/AM.png,AM,Armenia,"2,780,469",29.7K,28.5K,98,-0.09%,0.03%,140,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/GM.png,GM,Gambia,"2,705,992",10.7K,10.1K,274,2.48%,0.03%,141,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/LT.png,LT,Lithuania,"2,750,055",65.3K,62.6K,43,-1.15%,0.03%,142,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/QA.png,QA,Qatar,"2,695,122",11.6K,11.5K,236,0.79%,0.03%,143,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/BW.png,BW,Botswana,"2,630,296",582K,566.7K,5,1.71%,0.03%,144,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/NA.png,NA,Namibia,"2,567,012",825.6K,823.3K,3,1.45%,0.03%,145,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/GA.png,GA,Gabon,"2,388,992",267.7K,257.7K,9,1.99%,0.03%,146,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/LS.png,LS,Lesotho,"2,305,825",30.4K,30.4K,77,1.06%,0.03%,147,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/GW.png,GW,Guinea Bissau,"2,105,566",36.1K,28.1K,76,2.15%,0.03%,148,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/SI.png,SI,Slovenia,"2,119,844",20.3K,20.1K,105,-0.01%,0.03%,149,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/MK.png,MK,North Macedonia,"2,093,599",25.7K,25.2K,83,-0.38%,0.03%,150,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/LV.png,LV,Latvia,"1,850,651",64.6K,62.2K,29,-1.1%,0.02%,151,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/GQ.png,GQ,Equatorial Guinea,"1,674,908",28.1K,28.1K,61,2.37%,0.02%,152,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/TT.png,TT,Trinidad And Tobago,"1,531,044",5.1K,5.1K,299,0.25%,0.02%,153,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/BH.png,BH,Bahrain,"1,472,233",765,785,"1,892",0.9%,0.02%,154,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/TL.png,TL,Timor Leste,"1,341,296",14.9K,14.9K,91,1.44%,0.02%,155,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/EE.png,EE,Estonia,"1,326,062",45.2K,42.8K,31,-0.25%,0.02%,156,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/MU.png,MU,Mauritius,"1,299,469",2K,2K,641,0.08%,0.02%,157,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/CY.png,CY,Cyprus,"1,251,488",9.3K,9.2K,136,0.69%,0.02%,158,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/SZ.png,SZ,Eswatini,"1,201,670",17.4K,17.2K,70,0.76%,0.02%,159,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/DJ.png,DJ,Djibouti,"1,120,849",23.2K,23.2K,49,1.39%,0.01%,160,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/RE.png,RE,Reunion,"974,052",2.5K,2.5K,391,0.8%,0.01%,161,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/FJ.png,FJ,Fiji,"929,766",18.3K,18.3K,51,0.71%,0.01%,162,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/KM.png,KM,Comoros,"836,774",1.9K,1.9K,458,1.83%,0.01%,163,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/GY.png,GY,Guyana,"808,726",215K,196.8K,4,0.63%,0.01%,164,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/BT.png,BT,Bhutan,"782,455",38.4K,38.1K,21,0.64%,0.01%,165,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/SB.png,SB,Solomon Islands,"724,273",28.9K,28K,26,2.23%,0.01%,166,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/MO.png,MO,Macau,"695,168",33,33,"21,403",1.29%,0.01%,167,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/LU.png,LU,Luxembourg,"647,599",2.6K,2.6K,254,1.11%,0.01%,168,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/ME.png,ME,Montenegro,"627,082",13.8K,13.4K,47,-0.1%,0.01%,169,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/SR.png,SR,Suriname,"618,040",163.8K,156K,4,0.84%,0.01%,170,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/CV.png,CV,Cape Verde,"593,149",4K,4K,148,0.93%,0.01%,171,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/EH.png,EH,Western Sahara,"575,986",266K,266K,2,1.96%,0.01%,172,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/MT.png,MT,Malta,"533,286",316,320,"1,672",0.33%,0.01%,173,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/MV.png,MV,Maldives,"523,787",300,300,"1,737",-0.53%,0.01%,174,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/BN.png,BN,Brunei,"449,002",5.8K,5.3K,86,0.78%,0.01%,175,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/BS.png,BS,Bahamas,"409,984",13.9K,10K,41,0.64%,0.01%,176,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/BZ.png,BZ,Belize,"405,272",23K,22.8K,18,1.37%,0.01%,177,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/GP.png,GP,Guadeloupe,"395,752",1.6K,1.6K,243,0.02%,0%,178,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/IS.png,IS,Iceland,"372,899",103K,100.8K,4,0.65%,0%,179,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/MQ.png,MQ,Martinique,"367,507",1.1K,1.1K,325,-0.14%,0%,180,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/YT.png,YT,Mayotte,"326,101",374,374,898,3.03%,0%,181,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/VU.png,VU,Vanuatu,"326,740",12.2K,12.2K,27,2.38%,0%,182,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/GF.png,GF,French Guiana,"304,557",83.5K,83.5K,4,2.49%,0%,183,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/PF.png,PF,French Polynesia,"306,279",4.2K,3.5K,89,0.85%,0%,184,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/NC.png,NC,New Caledonia,"289,950",18.6K,18.3K,16,1.05%,0%,185,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/BB.png,BB,Barbados,"281,635",430,430,656,0.13%,0%,186,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/ST.png,ST,Sao Tome And Principe,"227,380",964,960,242,1.97%,0%,187,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/WS.png,WS,Samoa,"222,382",2.8K,2.8K,81,1.48%,0%,188,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/CW.png,CW,Curacao,"191,163",444,444,433,0.48%,0%,189,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/LC.png,LC,Saint Lucia,"179,857",616,610,295,0.22%,0%,190,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/GU.png,GU,Guam,"171,774",549,540,320,0.69%,0%,191,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/KI.png,KI,Kiribati,"131,232",811,810,165,1.74%,0%,192,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/GD.png,GD,Grenada,"125,438",344,340,371,0.59%,0%,193,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/FM.png,FM,Micronesia,"114,164",702,700,165,0.93%,0%,194,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/JE.png,JE,Jersey,"110,778",116,120,932,0.92%,0%,195,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/TO.png,TO,Tonga,"106,858",747,720,150,0.86%,0%,196,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/SC.png,SC,Seychelles,"107,118",452,460,234,0.51%,0%,197,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/AW.png,AW,Aruba,"106,445",180,180,590,-0.16%,0%,198,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/VC.png,VC,Saint Vincent And The Grenadines,"103,948",389,390,266,-0.24%,0%,199,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/VI.png,VI,United States Virgin Islands,"99,465",347,347,285,-0.72%,0%,200,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/AG.png,AG,Antigua And Barbuda,"93,763",442,440,214,0.57%,0%,201,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/IM.png,IM,Isle Of Man,"84,519",572,570,149,0.23%,0%,202,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/AD.png,AD,Andorra,"79,824",468,470,170,0.33%,0%,203,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/DM.png,DM,Dominica,"72,737",751,750,97,0.42%,0%,204,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/KY.png,KY,Cayman Islands,"68,706",264,240,289,0.88%,0%,205,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/BM.png,BM,Bermuda,"64,184",54,54,"1,186",-0.18%,0%,206,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/GG.png,GG,Guernsey,"63,301",78,63,"1,009",0.38%,0%,207,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/GL.png,GL,Greenland,"56,466",2.2M,410.4K,0.14,0.31%,0%,208,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/FO.png,FO,Faroe Islands,"53,090",1.4K,1.4K,39,0.34%,0%,209,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/MP.png,MP,Northern Mariana Islands,"49,551",464,460,108,0.49%,0%,210,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/KN.png,KN,Saint Kitts And Nevis,"47,657",261,260,184,0.21%,0%,211,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/TC.png,TC,Turks And Caicos Islands,"45,703",948,948,49,0.79%,0%,212,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/SX.png,SX,Sint Maarten,"44,175",34,34,"1,301",0.11%,0%,213,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/AS.png,AS,American Samoa,"44,273",199,200,220,-0.81%,0%,214,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/MH.png,MH,Marshall Islands,"41,569",181,180,233,1.03%,0%,215,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/LI.png,LI,Liechtenstein,"39,327",160,160,247,0.65%,0%,216,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/MC.png,MC,Monaco,"36,469",2,2,"18,149",-0.47%,0%,217,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/SM.png,SM,San Marino,"33,660",61,60,561,-0.05%,0%,218,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/GI.png,GI,Gibraltar,"32,649",7,7,"4,807",0.12%,0%,219,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/MF.png,MF,Saint Martin,"31,791",53,50,642,0.9%,0%,220,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/VG.png,VG,British Virgin Islands,"31,305",151,150,210,0.74%,0%,221,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/PW.png,PW,Palau,"18,055",459,460,39,0.02%,0%,222,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/CK.png,CK,Cook Islands,"17,011",240,240,71,0.19%,0%,223,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/AI.png,AI,Anguilla,"15,857",91,91,175,0.26%,0%,224,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/NR.png,NR,Nauru,"12,668",21,20,639,0.88%,0%,225,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/WF.png,WF,Wallis And Futuna,"11,572",274,274,42,-0.6%,0%,226,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/TV.png,TV,Tuvalu,"11,312",26,30,380,0.74%,0%,227,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/BL.png,BL,Saint Barthelemy,"10,967",21,25,440,0.25%,0%,228,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/PM.png,PM,Saint Pierre And Miquelon,"5,862",242,242,24,-0.38%,,229,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/MS.png,MS,Montserrat,"4,390",102,102,43,-0.09%,,230,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/FK.png,FK,Falkland Islands,"3,780",12.2K,12.2K,0.31,0.29%,,231,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/NU.png,NU,Niue,"1,934",261,261,7,0.05%,,232,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/TK.png,TK,Tokelau,"1,871",12,10,189,1.18%,,233,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/VA.png,VA,Vatican City,510,< 1,< 1,"1,177",1.57%,,234,2010
+https://s3.amazonaws.com/images.wpr.com/flags/24/IN.png,IN,India,"1,417,173,173",3.3M,3M,481,0.81%,17.85%,1,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/CN.png,CN,China,"1,425,887,337",9.7M,9.4M,151,-0.02%,17.81%,2,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/US.png,US,United States,"338,289,857",9.4M,9.1M,37,0.5%,4.25%,3,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/ID.png,ID,Indonesia,"275,501,339",1.9M,1.9M,148,0.74%,3.47%,4,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/PK.png,PK,Pakistan,"235,824,862",881.9K,770.9K,312,1.98%,3%,5,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/NG.png,NG,Nigeria,"218,541,212",923.8K,910.8K,246,2.41%,2.8%,6,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/BR.png,BR,Brazil,"215,313,498",8.5M,8.4M,26,0.52%,2.7%,7,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/BD.png,BD,Bangladesh,"171,186,372",147.6K,130.2K,"1,329",1.03%,2.16%,8,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/RU.png,RU,Russia,"144,713,314",17.1M,16.4M,9,-0.19%,1.8%,9,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/MX.png,MX,Mexico,"127,504,125",2M,1.9M,66,0.75%,1.6%,10,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/ET.png,ET,Ethiopia,"123,379,924",1.1M,1.1M,112,2.55%,1.58%,11,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/JP.png,JP,Japan,"123,951,692",377.9K,364.5K,338,-0.53%,1.54%,12,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/PH.png,PH,Philippines,"115,559,009",342.4K,298.2K,394,1.54%,1.47%,13,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/EG.png,EG,Egypt,"110,990,103",1M,1M,113,1.56%,1.41%,14,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/CD.png,CD,Dr Congo,"99,010,212",2.3M,2.3M,45,3.29%,1.28%,15,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/VN.png,VN,Vietnam,"98,186,856",331.2K,313.4K,315,0.68%,1.23%,16,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/IR.png,IR,Iran,"88,550,570",1.6M,1.6M,55,0.7%,1.11%,17,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/TR.png,TR,Turkey,"85,341,241",783.6K,783.6K,110,0.56%,1.07%,18,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/DE.png,DE,Germany,"83,369,843",357.1K,349.4K,238,-0.09%,1.04%,19,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/TH.png,TH,Thailand,"71,697,030",513.1K,510.9K,141,0.15%,0.9%,20,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/GB.png,GB,United Kingdom,"67,508,936",242.9K,241.9K,280,0.34%,0.85%,21,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/TZ.png,TZ,Tanzania,"65,497,748",945.1K,885.8K,76,2.96%,0.84%,22,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/FR.png,FR,France,"64,626,628",551.7K,547.6K,118,0.2%,0.81%,23,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/ZA.png,ZA,South Africa,"59,893,885",1.2M,1.2M,50,0.87%,0.75%,24,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/IT.png,IT,Italy,"59,037,474",301.3K,295.7K,199,-0.28%,0.74%,25,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/KE.png,KE,Kenya,"54,027,487",580.4K,569.1K,97,1.99%,0.69%,26,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/MM.png,MM,Myanmar,"54,179,306",676.6K,652.7K,84,0.74%,0.68%,27,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/CO.png,CO,Colombia,"51,874,024",1.1M,1.1M,47,0.41%,0.65%,28,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/KR.png,KR,South Korea,"51,815,810",100.2K,97.6K,531,-0.06%,0.65%,29,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/UG.png,UG,Uganda,"47,249,585",241.6K,200.5K,242,2.82%,0.61%,30,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/SD.png,SD,Sudan,"46,874,204",1.9M,1.9M,26,2.63%,0.6%,31,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/ES.png,ES,Spain,"47,558,630",506K,499.6K,95,-0.08%,0.59%,32,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/AR.png,AR,Argentina,"45,510,318",2.8M,2.7M,17,0.58%,0.57%,33,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/DZ.png,DZ,Algeria,"44,903,225",2.4M,2.4M,19,1.57%,0.57%,34,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/IQ.png,IQ,Iraq,"44,496,122",438.3K,434.1K,105,2.27%,0.57%,35,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/AF.png,AF,Afghanistan,"41,128,771",652.2K,652.2K,65,2.7%,0.53%,36,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/PL.png,PL,Poland,"39,857,145",312.7K,306.1K,134,2.93%,0.51%,37,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/CA.png,CA,Canada,"38,454,327",10M,9M,4,0.85%,0.48%,38,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/MA.png,MA,Morocco,"37,457,971",446.6K,446.3K,85,1.02%,0.47%,39,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/SA.png,SA,Saudi Arabia,"36,408,820",2.1M,2.1M,17,1.48%,0.46%,40,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/UA.png,UA,Ukraine,"39,701,739",603.5K,579.4K,63,-7.45%,0.46%,41,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/AO.png,AO,Angola,"35,588,987",1.2M,1.2M,29,3.08%,0.46%,42,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/UZ.png,UZ,Uzbekistan,"34,627,652",447.4K,440.6K,80,1.55%,0.44%,43,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/YE.png,YE,Yemen,"33,696,614",528K,528K,65,2.24%,0.43%,44,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/PE.png,PE,Peru,"34,049,588",1.3M,1.3M,27,0.89%,0.43%,45,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/MY.png,MY,Malaysia,"33,938,221",330.8K,328.6K,104,1.09%,0.43%,46,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/GH.png,GH,Ghana,"33,475,870",238.5K,227.5K,150,1.93%,0.43%,47,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/MZ.png,MZ,Mozambique,"32,969,518",801.6K,786.4K,43,2.81%,0.42%,48,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/NP.png,NP,Nepal,"30,547,580",147.2K,143.3K,216,1.14%,0.39%,49,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/MG.png,MG,Madagascar,"29,611,714",587K,581.8K,52,2.41%,0.38%,50,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/CI.png,CI,Ivory Coast,"28,160,542",322.5K,318K,91,2.53%,0.36%,51,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/VE.png,VE,Venezuela,"28,301,696",916.4K,882K,33,1.9%,0.36%,52,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/CM.png,CM,Cameroon,"27,914,536",475.4K,472.7K,61,2.63%,0.36%,53,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/NE.png,NE,Niger,"26,207,977",1.3M,1.3M,21,3.8%,0.34%,54,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/AU.png,AU,Australia,"26,177,413",7.7M,7.7M,3,1%,0.33%,55,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/KP.png,KP,North Korea,"26,069,416",120.5K,120.4K,217,0.35%,0.33%,56,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/TW.png,TW,Taiwan,"23,893,394",36.2K,36.2K,661,0.13%,0.3%,57,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/ML.png,ML,Mali,"22,593,590",1.2M,1.2M,19,3.1%,0.29%,58,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/BF.png,BF,Burkina Faso,"22,673,762",273K,273.6K,85,2.55%,0.29%,59,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/SY.png,SY,Syria,"22,125,249",185.2K,183.6K,126,4.98%,0.29%,60,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/LK.png,LK,Sri Lanka,"21,832,143",65.6K,61.9K,354,0.28%,0.27%,61,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/MW.png,MW,Malawi,"20,405,317",118.5K,94.3K,222,2.58%,0.26%,62,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/ZM.png,ZM,Zambia,"20,017,675",752.6K,743.4K,28,2.76%,0.26%,63,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/RO.png,RO,Romania,"19,659,267",238.4K,230.1K,86,1.19%,0.25%,64,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/CL.png,CL,Chile,"19,603,733",756.1K,743.5K,26,0.13%,0.25%,65,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/KZ.png,KZ,Kazakhstan,"19,397,998",2.7M,2.7M,7,1.08%,0.24%,66,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/TD.png,TD,Chad,"17,723,315",1.3M,1.3M,15,3.13%,0.23%,67,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/EC.png,EC,Ecuador,"18,001,000",276.8K,248.4K,73,1.05%,0.23%,68,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/SO.png,SO,Somalia,"17,597,511",637.7K,627.3K,29,3.1%,0.23%,69,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/GT.png,GT,Guatemala,"17,843,908",108.9K,107.2K,169,1.39%,0.23%,70,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/SN.png,SN,Senegal,"17,316,449",196.7K,192.5K,92,2.58%,0.22%,71,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/NL.png,NL,Netherlands,"17,564,014",41.9K,33.7K,523,0.31%,0.22%,72,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/KH.png,KH,Cambodia,"16,767,842",181K,176.5K,96,1.06%,0.21%,73,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/ZW.png,ZW,Zimbabwe,"16,320,537",390.8K,386.9K,43,2.11%,0.21%,74,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/GN.png,GN,Guinea,"13,859,341",245.9K,245.7K,58,2.39%,0.18%,75,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/RW.png,RW,Rwanda,"13,776,698",26.3K,24.7K,571,2.31%,0.18%,76,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/BJ.png,BJ,Benin,"13,352,864",112.6K,112.8K,122,2.7%,0.17%,77,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/BI.png,BI,Burundi,"12,889,576",27.8K,25.7K,516,2.71%,0.17%,78,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/TN.png,TN,Tunisia,"12,356,117",163.6K,155.4K,80,0.83%,0.16%,79,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/BO.png,BO,Bolivia,"12,224,110",1.1M,1.1M,11,1.35%,0.15%,80,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/HT.png,HT,Haiti,"11,584,996",27.8K,27.6K,425,1.21%,0.15%,81,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/BE.png,BE,Belgium,"11,655,930",30.5K,30.3K,386,0.26%,0.15%,82,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/JO.png,JO,Jordan,"11,285,869",89.3K,88.8K,128,0.45%,0.14%,83,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/DO.png,DO,Dominican Republic,"11,228,821",48.7K,48.3K,235,0.93%,0.14%,84,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/CU.png,CU,Cuba,"11,212,191",109.9K,103.8K,108,-0.16%,0.14%,85,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/SS.png,SS,South Sudan,"10,913,164",619.7K,631.9K,18,1.61%,0.14%,86,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/SE.png,SE,Sweden,"10,549,347",450.3K,407.3K,26,0.59%,0.13%,87,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/HN.png,HN,Honduras,"10,432,860",112.5K,111.9K,95,1.54%,0.13%,88,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/CZ.png,CZ,Czech Republic,"10,493,986",78.9K,77.2K,136,0.01%,0.13%,89,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/AZ.png,AZ,Azerbaijan,"10,358,074",86.6K,82.6K,126,0.53%,0.13%,90,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/GR.png,GR,Greece,"10,384,971",132K,128.9K,80,-0.42%,0.13%,91,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/PG.png,PG,Papua New Guinea,"10,142,619",462.8K,452.9K,23,1.85%,0.13%,92,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/PT.png,PT,Portugal,"10,270,865",92.1K,91.6K,112,-0.23%,0.13%,93,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/HU.png,HU,Hungary,"9,967,308",93K,91.3K,111,1.9%,0.13%,94,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/TJ.png,TJ,Tajikistan,"9,952,787",143.1K,138.8K,73,1.92%,0.13%,95,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/AE.png,AE,United Arab Emirates,"9,441,129",83.6K,71K,134,0.8%,0.12%,96,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/BY.png,BY,Belarus,"9,534,954",207.6K,203K,47,-0.39%,0.12%,97,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/IL.png,IL,Israel,"9,038,309",20.8K,21.6K,424,1.51%,0.11%,98,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/TG.png,TG,Togo,"8,848,699",56.8K,54.4K,166,2.32%,0.11%,99,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/AT.png,AT,Austria,"8,939,617",83.9K,82.5K,109,0.22%,0.11%,100,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/CH.png,CH,Switzerland,"8,740,472",41.3K,39.5K,223,0.64%,0.11%,101,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/SL.png,SL,Sierra Leone,"8,605,718",71.7K,72.2K,122,2.15%,0.11%,102,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/LA.png,LA,Laos,"7,529,475",236.8K,230.8K,33,1.39%,0.1%,103,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/HK.png,HK,Hong Kong,"7,488,865",1.1K,1.1K,"7,135",0.04%,0.09%,104,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/RS.png,RS,Serbia,"7,221,365",88.4K,87.5K,82,-1%,0.09%,105,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/NI.png,NI,Nicaragua,"6,948,392",130.4K,120.3K,59,1.41%,0.09%,106,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/LY.png,LY,Libya,"6,812,341",1.8M,1.8M,4,1.12%,0.09%,107,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/PY.png,PY,Paraguay,"6,780,744",406.8K,397.3K,17,1.19%,0.09%,108,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/KG.png,KG,Kyrgyzstan,"6,630,623",200K,191.8K,35,1.58%,0.08%,109,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/BG.png,BG,Bulgaria,"6,781,953",110.9K,108.6K,62,-1.39%,0.08%,110,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/TM.png,TM,Turkmenistan,"6,430,770",488.1K,469.9K,14,1.33%,0.08%,111,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/SV.png,SV,El Salvador,"6,336,392",21K,20.7K,307,0.45%,0.08%,112,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/CG.png,CG,Republic Of The Congo,"5,970,424",342K,341.5K,18,2.29%,0.08%,113,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/SG.png,SG,Singapore,"5,975,689",710,718,"8,377",0.65%,0.08%,114,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/DK.png,DK,Denmark,"5,882,261",43.1K,40K,148,0.49%,0.07%,115,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/SK.png,SK,Slovakia,"5,643,453",49K,49K,118,2.69%,0.07%,116,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/CF.png,CF,Central African Republic,"5,579,144",623K,623K,9,2.92%,0.07%,117,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/FI.png,FI,Finland,"5,540,745",338.4K,303.9K,18,0.09%,0.07%,118,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/NO.png,NO,Norway,"5,434,319",323.8K,364.3K,15,0.74%,0.07%,119,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/LR.png,LR,Liberia,"5,302,681",111.4K,96.3K,56,2.18%,0.07%,120,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/PS.png,PS,Palestine,"5,250,072",6.2K,6K,892,2.31%,0.07%,121,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/LB.png,LB,Lebanon,"5,489,739",10.5K,10.2K,523,-2.47%,0.07%,122,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/NZ.png,NZ,New Zealand,"5,185,288",270.5K,263.3K,20,0.83%,0.07%,123,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/CR.png,CR,Costa Rica,"5,180,829",51.1K,51.1K,102,0.6%,0.07%,124,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/IE.png,IE,Ireland,"5,023,109",70.3K,68.9K,73,0.67%,0.06%,125,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/MR.png,MR,Mauritania,"4,736,139",1M,1M,5,2.68%,0.06%,126,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/OM.png,OM,Oman,"4,576,298",309.5K,309.5K,15,1.49%,0.06%,127,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/PA.png,PA,Panama,"4,408,581",75.4K,74.2K,60,1.35%,0.06%,128,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/KW.png,KW,Kuwait,"4,268,873",17.8K,17.8K,242,0.97%,0.05%,129,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/HR.png,HR,Croatia,"4,030,358",56.6K,56K,72,-0.54%,0.05%,130,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/ER.png,ER,Eritrea,"3,684,032",117.6K,121K,31,1.76%,0.05%,131,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/GE.png,GE,Georgia,"3,744,385",69.7K,69.5K,54,-0.43%,0.05%,132,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/MN.png,MN,Mongolia,"3,398,366",1.6M,1.6M,2,1.44%,0.04%,133,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/MD.png,MD,Moldova,"3,272,996",33.8K,32.9K,104,4.98%,0.04%,134,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/UY.png,UY,Uruguay,"3,422,794",181K,175K,20,0.01%,0.04%,135,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/PR.png,PR,Puerto Rico,"3,252,407",8.9K,8.9K,368,0.24%,0.04%,136,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/BA.png,BA,Bosnia And Herzegovina,"3,233,526",51.2K,51.2K,63,-0.7%,0.04%,137,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/AL.png,AL,Albania,"2,842,321",28.7K,27.4K,103,-0.35%,0.04%,138,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/JM.png,JM,Jamaica,"2,827,377",11K,10.8K,261,-0.06%,0.04%,139,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/AM.png,AM,Armenia,"2,780,469",29.7K,28.5K,98,-0.09%,0.03%,140,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/GM.png,GM,Gambia,"2,705,992",10.7K,10.1K,274,2.48%,0.03%,141,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/LT.png,LT,Lithuania,"2,750,055",65.3K,62.6K,43,-1.15%,0.03%,142,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/QA.png,QA,Qatar,"2,695,122",11.6K,11.5K,236,0.79%,0.03%,143,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/BW.png,BW,Botswana,"2,630,296",582K,566.7K,5,1.71%,0.03%,144,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/NA.png,NA,Namibia,"2,567,012",825.6K,823.3K,3,1.45%,0.03%,145,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/GA.png,GA,Gabon,"2,388,992",267.7K,257.7K,9,1.99%,0.03%,146,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/LS.png,LS,Lesotho,"2,305,825",30.4K,30.4K,77,1.06%,0.03%,147,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/GW.png,GW,Guinea Bissau,"2,105,566",36.1K,28.1K,76,2.15%,0.03%,148,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/SI.png,SI,Slovenia,"2,119,844",20.3K,20.1K,105,-0.01%,0.03%,149,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/MK.png,MK,North Macedonia,"2,093,599",25.7K,25.2K,83,-0.38%,0.03%,150,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/LV.png,LV,Latvia,"1,850,651",64.6K,62.2K,29,-1.1%,0.02%,151,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/GQ.png,GQ,Equatorial Guinea,"1,674,908",28.1K,28.1K,61,2.37%,0.02%,152,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/TT.png,TT,Trinidad And Tobago,"1,531,044",5.1K,5.1K,299,0.25%,0.02%,153,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/BH.png,BH,Bahrain,"1,472,233",765,785,"1,892",0.9%,0.02%,154,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/TL.png,TL,Timor Leste,"1,341,296",14.9K,14.9K,91,1.44%,0.02%,155,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/EE.png,EE,Estonia,"1,326,062",45.2K,42.8K,31,-0.25%,0.02%,156,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/MU.png,MU,Mauritius,"1,299,469",2K,2K,641,0.08%,0.02%,157,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/CY.png,CY,Cyprus,"1,251,488",9.3K,9.2K,136,0.69%,0.02%,158,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/SZ.png,SZ,Eswatini,"1,201,670",17.4K,17.2K,70,0.76%,0.02%,159,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/DJ.png,DJ,Djibouti,"1,120,849",23.2K,23.2K,49,1.39%,0.01%,160,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/RE.png,RE,Reunion,"974,052",2.5K,2.5K,391,0.8%,0.01%,161,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/FJ.png,FJ,Fiji,"929,766",18.3K,18.3K,51,0.71%,0.01%,162,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/KM.png,KM,Comoros,"836,774",1.9K,1.9K,458,1.83%,0.01%,163,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/GY.png,GY,Guyana,"808,726",215K,196.8K,4,0.63%,0.01%,164,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/BT.png,BT,Bhutan,"782,455",38.4K,38.1K,21,0.64%,0.01%,165,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/SB.png,SB,Solomon Islands,"724,273",28.9K,28K,26,2.23%,0.01%,166,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/MO.png,MO,Macau,"695,168",33,33,"21,403",1.29%,0.01%,167,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/LU.png,LU,Luxembourg,"647,599",2.6K,2.6K,254,1.11%,0.01%,168,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/ME.png,ME,Montenegro,"627,082",13.8K,13.4K,47,-0.1%,0.01%,169,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/SR.png,SR,Suriname,"618,040",163.8K,156K,4,0.84%,0.01%,170,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/CV.png,CV,Cape Verde,"593,149",4K,4K,148,0.93%,0.01%,171,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/EH.png,EH,Western Sahara,"575,986",266K,266K,2,1.96%,0.01%,172,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/MT.png,MT,Malta,"533,286",316,320,"1,672",0.33%,0.01%,173,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/MV.png,MV,Maldives,"523,787",300,300,"1,737",-0.53%,0.01%,174,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/BN.png,BN,Brunei,"449,002",5.8K,5.3K,86,0.78%,0.01%,175,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/BS.png,BS,Bahamas,"409,984",13.9K,10K,41,0.64%,0.01%,176,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/BZ.png,BZ,Belize,"405,272",23K,22.8K,18,1.37%,0.01%,177,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/GP.png,GP,Guadeloupe,"395,752",1.6K,1.6K,243,0.02%,0%,178,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/IS.png,IS,Iceland,"372,899",103K,100.8K,4,0.65%,0%,179,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/MQ.png,MQ,Martinique,"367,507",1.1K,1.1K,325,-0.14%,0%,180,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/YT.png,YT,Mayotte,"326,101",374,374,898,3.03%,0%,181,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/VU.png,VU,Vanuatu,"326,740",12.2K,12.2K,27,2.38%,0%,182,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/GF.png,GF,French Guiana,"304,557",83.5K,83.5K,4,2.49%,0%,183,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/PF.png,PF,French Polynesia,"306,279",4.2K,3.5K,89,0.85%,0%,184,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/NC.png,NC,New Caledonia,"289,950",18.6K,18.3K,16,1.05%,0%,185,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/BB.png,BB,Barbados,"281,635",430,430,656,0.13%,0%,186,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/ST.png,ST,Sao Tome And Principe,"227,380",964,960,242,1.97%,0%,187,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/WS.png,WS,Samoa,"222,382",2.8K,2.8K,81,1.48%,0%,188,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/CW.png,CW,Curacao,"191,163",444,444,433,0.48%,0%,189,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/LC.png,LC,Saint Lucia,"179,857",616,610,295,0.22%,0%,190,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/GU.png,GU,Guam,"171,774",549,540,320,0.69%,0%,191,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/KI.png,KI,Kiribati,"131,232",811,810,165,1.74%,0%,192,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/GD.png,GD,Grenada,"125,438",344,340,371,0.59%,0%,193,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/FM.png,FM,Micronesia,"114,164",702,700,165,0.93%,0%,194,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/JE.png,JE,Jersey,"110,778",116,120,932,0.92%,0%,195,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/TO.png,TO,Tonga,"106,858",747,720,150,0.86%,0%,196,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/SC.png,SC,Seychelles,"107,118",452,460,234,0.51%,0%,197,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/AW.png,AW,Aruba,"106,445",180,180,590,-0.16%,0%,198,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/VC.png,VC,Saint Vincent And The Grenadines,"103,948",389,390,266,-0.24%,0%,199,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/VI.png,VI,United States Virgin Islands,"99,465",347,347,285,-0.72%,0%,200,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/AG.png,AG,Antigua And Barbuda,"93,763",442,440,214,0.57%,0%,201,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/IM.png,IM,Isle Of Man,"84,519",572,570,149,0.23%,0%,202,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/AD.png,AD,Andorra,"79,824",468,470,170,0.33%,0%,203,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/DM.png,DM,Dominica,"72,737",751,750,97,0.42%,0%,204,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/KY.png,KY,Cayman Islands,"68,706",264,240,289,0.88%,0%,205,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/BM.png,BM,Bermuda,"64,184",54,54,"1,186",-0.18%,0%,206,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/GG.png,GG,Guernsey,"63,301",78,63,"1,009",0.38%,0%,207,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/GL.png,GL,Greenland,"56,466",2.2M,410.4K,0.14,0.31%,0%,208,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/FO.png,FO,Faroe Islands,"53,090",1.4K,1.4K,39,0.34%,0%,209,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/MP.png,MP,Northern Mariana Islands,"49,551",464,460,108,0.49%,0%,210,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/KN.png,KN,Saint Kitts And Nevis,"47,657",261,260,184,0.21%,0%,211,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/TC.png,TC,Turks And Caicos Islands,"45,703",948,948,49,0.79%,0%,212,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/SX.png,SX,Sint Maarten,"44,175",34,34,"1,301",0.11%,0%,213,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/AS.png,AS,American Samoa,"44,273",199,200,220,-0.81%,0%,214,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/MH.png,MH,Marshall Islands,"41,569",181,180,233,1.03%,0%,215,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/LI.png,LI,Liechtenstein,"39,327",160,160,247,0.65%,0%,216,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/MC.png,MC,Monaco,"36,469",2,2,"18,149",-0.47%,0%,217,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/SM.png,SM,San Marino,"33,660",61,60,561,-0.05%,0%,218,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/GI.png,GI,Gibraltar,"32,649",7,7,"4,807",0.12%,0%,219,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/MF.png,MF,Saint Martin,"31,791",53,50,642,0.9%,0%,220,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/VG.png,VG,British Virgin Islands,"31,305",151,150,210,0.74%,0%,221,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/PW.png,PW,Palau,"18,055",459,460,39,0.02%,0%,222,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/CK.png,CK,Cook Islands,"17,011",240,240,71,0.19%,0%,223,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/AI.png,AI,Anguilla,"15,857",91,91,175,0.26%,0%,224,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/NR.png,NR,Nauru,"12,668",21,20,639,0.88%,0%,225,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/WF.png,WF,Wallis And Futuna,"11,572",274,274,42,-0.6%,0%,226,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/TV.png,TV,Tuvalu,"11,312",26,30,380,0.74%,0%,227,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/BL.png,BL,Saint Barthelemy,"10,967",21,25,440,0.25%,0%,228,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/PM.png,PM,Saint Pierre And Miquelon,"5,862",242,242,24,-0.38%,,229,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/MS.png,MS,Montserrat,"4,390",102,102,43,-0.09%,,230,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/FK.png,FK,Falkland Islands,"3,780",12.2K,12.2K,0.31,0.29%,,231,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/NU.png,NU,Niue,"1,934",261,261,7,0.05%,,232,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/TK.png,TK,Tokelau,"1,871",12,10,189,1.18%,,233,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/VA.png,VA,Vatican City,510,< 1,< 1,"1,177",1.57%,,234,2000
+https://s3.amazonaws.com/images.wpr.com/flags/24/IN.png,IN,India,"1,417,173,173",3.3M,3M,481,0.81%,17.85%,1,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/CN.png,CN,China,"1,425,887,337",9.7M,9.4M,151,-0.02%,17.81%,2,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/US.png,US,United States,"338,289,857",9.4M,9.1M,37,0.5%,4.25%,3,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/ID.png,ID,Indonesia,"275,501,339",1.9M,1.9M,148,0.74%,3.47%,4,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/PK.png,PK,Pakistan,"235,824,862",881.9K,770.9K,312,1.98%,3%,5,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/NG.png,NG,Nigeria,"218,541,212",923.8K,910.8K,246,2.41%,2.8%,6,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/BR.png,BR,Brazil,"215,313,498",8.5M,8.4M,26,0.52%,2.7%,7,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/BD.png,BD,Bangladesh,"171,186,372",147.6K,130.2K,"1,329",1.03%,2.16%,8,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/RU.png,RU,Russia,"144,713,314",17.1M,16.4M,9,-0.19%,1.8%,9,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/MX.png,MX,Mexico,"127,504,125",2M,1.9M,66,0.75%,1.6%,10,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/ET.png,ET,Ethiopia,"123,379,924",1.1M,1.1M,112,2.55%,1.58%,11,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/JP.png,JP,Japan,"123,951,692",377.9K,364.5K,338,-0.53%,1.54%,12,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/PH.png,PH,Philippines,"115,559,009",342.4K,298.2K,394,1.54%,1.47%,13,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/EG.png,EG,Egypt,"110,990,103",1M,1M,113,1.56%,1.41%,14,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/CD.png,CD,Dr Congo,"99,010,212",2.3M,2.3M,45,3.29%,1.28%,15,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/VN.png,VN,Vietnam,"98,186,856",331.2K,313.4K,315,0.68%,1.23%,16,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/IR.png,IR,Iran,"88,550,570",1.6M,1.6M,55,0.7%,1.11%,17,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/TR.png,TR,Turkey,"85,341,241",783.6K,783.6K,110,0.56%,1.07%,18,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/DE.png,DE,Germany,"83,369,843",357.1K,349.4K,238,-0.09%,1.04%,19,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/TH.png,TH,Thailand,"71,697,030",513.1K,510.9K,141,0.15%,0.9%,20,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/GB.png,GB,United Kingdom,"67,508,936",242.9K,241.9K,280,0.34%,0.85%,21,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/TZ.png,TZ,Tanzania,"65,497,748",945.1K,885.8K,76,2.96%,0.84%,22,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/FR.png,FR,France,"64,626,628",551.7K,547.6K,118,0.2%,0.81%,23,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/ZA.png,ZA,South Africa,"59,893,885",1.2M,1.2M,50,0.87%,0.75%,24,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/IT.png,IT,Italy,"59,037,474",301.3K,295.7K,199,-0.28%,0.74%,25,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/KE.png,KE,Kenya,"54,027,487",580.4K,569.1K,97,1.99%,0.69%,26,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/MM.png,MM,Myanmar,"54,179,306",676.6K,652.7K,84,0.74%,0.68%,27,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/CO.png,CO,Colombia,"51,874,024",1.1M,1.1M,47,0.41%,0.65%,28,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/KR.png,KR,South Korea,"51,815,810",100.2K,97.6K,531,-0.06%,0.65%,29,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/UG.png,UG,Uganda,"47,249,585",241.6K,200.5K,242,2.82%,0.61%,30,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/SD.png,SD,Sudan,"46,874,204",1.9M,1.9M,26,2.63%,0.6%,31,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/ES.png,ES,Spain,"47,558,630",506K,499.6K,95,-0.08%,0.59%,32,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/AR.png,AR,Argentina,"45,510,318",2.8M,2.7M,17,0.58%,0.57%,33,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/DZ.png,DZ,Algeria,"44,903,225",2.4M,2.4M,19,1.57%,0.57%,34,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/IQ.png,IQ,Iraq,"44,496,122",438.3K,434.1K,105,2.27%,0.57%,35,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/AF.png,AF,Afghanistan,"41,128,771",652.2K,652.2K,65,2.7%,0.53%,36,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/PL.png,PL,Poland,"39,857,145",312.7K,306.1K,134,2.93%,0.51%,37,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/CA.png,CA,Canada,"38,454,327",10M,9M,4,0.85%,0.48%,38,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/MA.png,MA,Morocco,"37,457,971",446.6K,446.3K,85,1.02%,0.47%,39,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/SA.png,SA,Saudi Arabia,"36,408,820",2.1M,2.1M,17,1.48%,0.46%,40,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/UA.png,UA,Ukraine,"39,701,739",603.5K,579.4K,63,-7.45%,0.46%,41,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/AO.png,AO,Angola,"35,588,987",1.2M,1.2M,29,3.08%,0.46%,42,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/UZ.png,UZ,Uzbekistan,"34,627,652",447.4K,440.6K,80,1.55%,0.44%,43,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/YE.png,YE,Yemen,"33,696,614",528K,528K,65,2.24%,0.43%,44,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/PE.png,PE,Peru,"34,049,588",1.3M,1.3M,27,0.89%,0.43%,45,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/MY.png,MY,Malaysia,"33,938,221",330.8K,328.6K,104,1.09%,0.43%,46,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/GH.png,GH,Ghana,"33,475,870",238.5K,227.5K,150,1.93%,0.43%,47,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/MZ.png,MZ,Mozambique,"32,969,518",801.6K,786.4K,43,2.81%,0.42%,48,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/NP.png,NP,Nepal,"30,547,580",147.2K,143.3K,216,1.14%,0.39%,49,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/MG.png,MG,Madagascar,"29,611,714",587K,581.8K,52,2.41%,0.38%,50,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/CI.png,CI,Ivory Coast,"28,160,542",322.5K,318K,91,2.53%,0.36%,51,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/VE.png,VE,Venezuela,"28,301,696",916.4K,882K,33,1.9%,0.36%,52,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/CM.png,CM,Cameroon,"27,914,536",475.4K,472.7K,61,2.63%,0.36%,53,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/NE.png,NE,Niger,"26,207,977",1.3M,1.3M,21,3.8%,0.34%,54,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/AU.png,AU,Australia,"26,177,413",7.7M,7.7M,3,1%,0.33%,55,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/KP.png,KP,North Korea,"26,069,416",120.5K,120.4K,217,0.35%,0.33%,56,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/TW.png,TW,Taiwan,"23,893,394",36.2K,36.2K,661,0.13%,0.3%,57,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/ML.png,ML,Mali,"22,593,590",1.2M,1.2M,19,3.1%,0.29%,58,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/BF.png,BF,Burkina Faso,"22,673,762",273K,273.6K,85,2.55%,0.29%,59,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/SY.png,SY,Syria,"22,125,249",185.2K,183.6K,126,4.98%,0.29%,60,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/LK.png,LK,Sri Lanka,"21,832,143",65.6K,61.9K,354,0.28%,0.27%,61,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/MW.png,MW,Malawi,"20,405,317",118.5K,94.3K,222,2.58%,0.26%,62,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/ZM.png,ZM,Zambia,"20,017,675",752.6K,743.4K,28,2.76%,0.26%,63,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/RO.png,RO,Romania,"19,659,267",238.4K,230.1K,86,1.19%,0.25%,64,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/CL.png,CL,Chile,"19,603,733",756.1K,743.5K,26,0.13%,0.25%,65,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/KZ.png,KZ,Kazakhstan,"19,397,998",2.7M,2.7M,7,1.08%,0.24%,66,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/TD.png,TD,Chad,"17,723,315",1.3M,1.3M,15,3.13%,0.23%,67,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/EC.png,EC,Ecuador,"18,001,000",276.8K,248.4K,73,1.05%,0.23%,68,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/SO.png,SO,Somalia,"17,597,511",637.7K,627.3K,29,3.1%,0.23%,69,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/GT.png,GT,Guatemala,"17,843,908",108.9K,107.2K,169,1.39%,0.23%,70,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/SN.png,SN,Senegal,"17,316,449",196.7K,192.5K,92,2.58%,0.22%,71,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/NL.png,NL,Netherlands,"17,564,014",41.9K,33.7K,523,0.31%,0.22%,72,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/KH.png,KH,Cambodia,"16,767,842",181K,176.5K,96,1.06%,0.21%,73,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/ZW.png,ZW,Zimbabwe,"16,320,537",390.8K,386.9K,43,2.11%,0.21%,74,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/GN.png,GN,Guinea,"13,859,341",245.9K,245.7K,58,2.39%,0.18%,75,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/RW.png,RW,Rwanda,"13,776,698",26.3K,24.7K,571,2.31%,0.18%,76,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/BJ.png,BJ,Benin,"13,352,864",112.6K,112.8K,122,2.7%,0.17%,77,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/BI.png,BI,Burundi,"12,889,576",27.8K,25.7K,516,2.71%,0.17%,78,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/TN.png,TN,Tunisia,"12,356,117",163.6K,155.4K,80,0.83%,0.16%,79,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/BO.png,BO,Bolivia,"12,224,110",1.1M,1.1M,11,1.35%,0.15%,80,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/HT.png,HT,Haiti,"11,584,996",27.8K,27.6K,425,1.21%,0.15%,81,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/BE.png,BE,Belgium,"11,655,930",30.5K,30.3K,386,0.26%,0.15%,82,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/JO.png,JO,Jordan,"11,285,869",89.3K,88.8K,128,0.45%,0.14%,83,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/DO.png,DO,Dominican Republic,"11,228,821",48.7K,48.3K,235,0.93%,0.14%,84,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/CU.png,CU,Cuba,"11,212,191",109.9K,103.8K,108,-0.16%,0.14%,85,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/SS.png,SS,South Sudan,"10,913,164",619.7K,631.9K,18,1.61%,0.14%,86,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/SE.png,SE,Sweden,"10,549,347",450.3K,407.3K,26,0.59%,0.13%,87,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/HN.png,HN,Honduras,"10,432,860",112.5K,111.9K,95,1.54%,0.13%,88,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/CZ.png,CZ,Czech Republic,"10,493,986",78.9K,77.2K,136,0.01%,0.13%,89,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/AZ.png,AZ,Azerbaijan,"10,358,074",86.6K,82.6K,126,0.53%,0.13%,90,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/GR.png,GR,Greece,"10,384,971",132K,128.9K,80,-0.42%,0.13%,91,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/PG.png,PG,Papua New Guinea,"10,142,619",462.8K,452.9K,23,1.85%,0.13%,92,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/PT.png,PT,Portugal,"10,270,865",92.1K,91.6K,112,-0.23%,0.13%,93,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/HU.png,HU,Hungary,"9,967,308",93K,91.3K,111,1.9%,0.13%,94,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/TJ.png,TJ,Tajikistan,"9,952,787",143.1K,138.8K,73,1.92%,0.13%,95,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/AE.png,AE,United Arab Emirates,"9,441,129",83.6K,71K,134,0.8%,0.12%,96,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/BY.png,BY,Belarus,"9,534,954",207.6K,203K,47,-0.39%,0.12%,97,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/IL.png,IL,Israel,"9,038,309",20.8K,21.6K,424,1.51%,0.11%,98,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/TG.png,TG,Togo,"8,848,699",56.8K,54.4K,166,2.32%,0.11%,99,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/AT.png,AT,Austria,"8,939,617",83.9K,82.5K,109,0.22%,0.11%,100,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/CH.png,CH,Switzerland,"8,740,472",41.3K,39.5K,223,0.64%,0.11%,101,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/SL.png,SL,Sierra Leone,"8,605,718",71.7K,72.2K,122,2.15%,0.11%,102,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/LA.png,LA,Laos,"7,529,475",236.8K,230.8K,33,1.39%,0.1%,103,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/HK.png,HK,Hong Kong,"7,488,865",1.1K,1.1K,"7,135",0.04%,0.09%,104,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/RS.png,RS,Serbia,"7,221,365",88.4K,87.5K,82,-1%,0.09%,105,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/NI.png,NI,Nicaragua,"6,948,392",130.4K,120.3K,59,1.41%,0.09%,106,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/LY.png,LY,Libya,"6,812,341",1.8M,1.8M,4,1.12%,0.09%,107,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/PY.png,PY,Paraguay,"6,780,744",406.8K,397.3K,17,1.19%,0.09%,108,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/KG.png,KG,Kyrgyzstan,"6,630,623",200K,191.8K,35,1.58%,0.08%,109,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/BG.png,BG,Bulgaria,"6,781,953",110.9K,108.6K,62,-1.39%,0.08%,110,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/TM.png,TM,Turkmenistan,"6,430,770",488.1K,469.9K,14,1.33%,0.08%,111,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/SV.png,SV,El Salvador,"6,336,392",21K,20.7K,307,0.45%,0.08%,112,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/CG.png,CG,Republic Of The Congo,"5,970,424",342K,341.5K,18,2.29%,0.08%,113,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/SG.png,SG,Singapore,"5,975,689",710,718,"8,377",0.65%,0.08%,114,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/DK.png,DK,Denmark,"5,882,261",43.1K,40K,148,0.49%,0.07%,115,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/SK.png,SK,Slovakia,"5,643,453",49K,49K,118,2.69%,0.07%,116,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/CF.png,CF,Central African Republic,"5,579,144",623K,623K,9,2.92%,0.07%,117,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/FI.png,FI,Finland,"5,540,745",338.4K,303.9K,18,0.09%,0.07%,118,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/NO.png,NO,Norway,"5,434,319",323.8K,364.3K,15,0.74%,0.07%,119,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/LR.png,LR,Liberia,"5,302,681",111.4K,96.3K,56,2.18%,0.07%,120,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/PS.png,PS,Palestine,"5,250,072",6.2K,6K,892,2.31%,0.07%,121,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/LB.png,LB,Lebanon,"5,489,739",10.5K,10.2K,523,-2.47%,0.07%,122,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/NZ.png,NZ,New Zealand,"5,185,288",270.5K,263.3K,20,0.83%,0.07%,123,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/CR.png,CR,Costa Rica,"5,180,829",51.1K,51.1K,102,0.6%,0.07%,124,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/IE.png,IE,Ireland,"5,023,109",70.3K,68.9K,73,0.67%,0.06%,125,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/MR.png,MR,Mauritania,"4,736,139",1M,1M,5,2.68%,0.06%,126,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/OM.png,OM,Oman,"4,576,298",309.5K,309.5K,15,1.49%,0.06%,127,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/PA.png,PA,Panama,"4,408,581",75.4K,74.2K,60,1.35%,0.06%,128,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/KW.png,KW,Kuwait,"4,268,873",17.8K,17.8K,242,0.97%,0.05%,129,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/HR.png,HR,Croatia,"4,030,358",56.6K,56K,72,-0.54%,0.05%,130,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/ER.png,ER,Eritrea,"3,684,032",117.6K,121K,31,1.76%,0.05%,131,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/GE.png,GE,Georgia,"3,744,385",69.7K,69.5K,54,-0.43%,0.05%,132,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/MN.png,MN,Mongolia,"3,398,366",1.6M,1.6M,2,1.44%,0.04%,133,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/MD.png,MD,Moldova,"3,272,996",33.8K,32.9K,104,4.98%,0.04%,134,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/UY.png,UY,Uruguay,"3,422,794",181K,175K,20,0.01%,0.04%,135,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/PR.png,PR,Puerto Rico,"3,252,407",8.9K,8.9K,368,0.24%,0.04%,136,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/BA.png,BA,Bosnia And Herzegovina,"3,233,526",51.2K,51.2K,63,-0.7%,0.04%,137,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/AL.png,AL,Albania,"2,842,321",28.7K,27.4K,103,-0.35%,0.04%,138,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/JM.png,JM,Jamaica,"2,827,377",11K,10.8K,261,-0.06%,0.04%,139,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/AM.png,AM,Armenia,"2,780,469",29.7K,28.5K,98,-0.09%,0.03%,140,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/GM.png,GM,Gambia,"2,705,992",10.7K,10.1K,274,2.48%,0.03%,141,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/LT.png,LT,Lithuania,"2,750,055",65.3K,62.6K,43,-1.15%,0.03%,142,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/QA.png,QA,Qatar,"2,695,122",11.6K,11.5K,236,0.79%,0.03%,143,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/BW.png,BW,Botswana,"2,630,296",582K,566.7K,5,1.71%,0.03%,144,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/NA.png,NA,Namibia,"2,567,012",825.6K,823.3K,3,1.45%,0.03%,145,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/GA.png,GA,Gabon,"2,388,992",267.7K,257.7K,9,1.99%,0.03%,146,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/LS.png,LS,Lesotho,"2,305,825",30.4K,30.4K,77,1.06%,0.03%,147,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/GW.png,GW,Guinea Bissau,"2,105,566",36.1K,28.1K,76,2.15%,0.03%,148,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/SI.png,SI,Slovenia,"2,119,844",20.3K,20.1K,105,-0.01%,0.03%,149,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/MK.png,MK,North Macedonia,"2,093,599",25.7K,25.2K,83,-0.38%,0.03%,150,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/LV.png,LV,Latvia,"1,850,651",64.6K,62.2K,29,-1.1%,0.02%,151,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/GQ.png,GQ,Equatorial Guinea,"1,674,908",28.1K,28.1K,61,2.37%,0.02%,152,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/TT.png,TT,Trinidad And Tobago,"1,531,044",5.1K,5.1K,299,0.25%,0.02%,153,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/BH.png,BH,Bahrain,"1,472,233",765,785,"1,892",0.9%,0.02%,154,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/TL.png,TL,Timor Leste,"1,341,296",14.9K,14.9K,91,1.44%,0.02%,155,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/EE.png,EE,Estonia,"1,326,062",45.2K,42.8K,31,-0.25%,0.02%,156,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/MU.png,MU,Mauritius,"1,299,469",2K,2K,641,0.08%,0.02%,157,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/CY.png,CY,Cyprus,"1,251,488",9.3K,9.2K,136,0.69%,0.02%,158,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/SZ.png,SZ,Eswatini,"1,201,670",17.4K,17.2K,70,0.76%,0.02%,159,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/DJ.png,DJ,Djibouti,"1,120,849",23.2K,23.2K,49,1.39%,0.01%,160,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/RE.png,RE,Reunion,"974,052",2.5K,2.5K,391,0.8%,0.01%,161,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/FJ.png,FJ,Fiji,"929,766",18.3K,18.3K,51,0.71%,0.01%,162,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/KM.png,KM,Comoros,"836,774",1.9K,1.9K,458,1.83%,0.01%,163,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/GY.png,GY,Guyana,"808,726",215K,196.8K,4,0.63%,0.01%,164,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/BT.png,BT,Bhutan,"782,455",38.4K,38.1K,21,0.64%,0.01%,165,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/SB.png,SB,Solomon Islands,"724,273",28.9K,28K,26,2.23%,0.01%,166,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/MO.png,MO,Macau,"695,168",33,33,"21,403",1.29%,0.01%,167,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/LU.png,LU,Luxembourg,"647,599",2.6K,2.6K,254,1.11%,0.01%,168,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/ME.png,ME,Montenegro,"627,082",13.8K,13.4K,47,-0.1%,0.01%,169,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/SR.png,SR,Suriname,"618,040",163.8K,156K,4,0.84%,0.01%,170,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/CV.png,CV,Cape Verde,"593,149",4K,4K,148,0.93%,0.01%,171,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/EH.png,EH,Western Sahara,"575,986",266K,266K,2,1.96%,0.01%,172,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/MT.png,MT,Malta,"533,286",316,320,"1,672",0.33%,0.01%,173,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/MV.png,MV,Maldives,"523,787",300,300,"1,737",-0.53%,0.01%,174,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/BN.png,BN,Brunei,"449,002",5.8K,5.3K,86,0.78%,0.01%,175,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/BS.png,BS,Bahamas,"409,984",13.9K,10K,41,0.64%,0.01%,176,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/BZ.png,BZ,Belize,"405,272",23K,22.8K,18,1.37%,0.01%,177,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/GP.png,GP,Guadeloupe,"395,752",1.6K,1.6K,243,0.02%,0%,178,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/IS.png,IS,Iceland,"372,899",103K,100.8K,4,0.65%,0%,179,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/MQ.png,MQ,Martinique,"367,507",1.1K,1.1K,325,-0.14%,0%,180,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/YT.png,YT,Mayotte,"326,101",374,374,898,3.03%,0%,181,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/VU.png,VU,Vanuatu,"326,740",12.2K,12.2K,27,2.38%,0%,182,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/GF.png,GF,French Guiana,"304,557",83.5K,83.5K,4,2.49%,0%,183,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/PF.png,PF,French Polynesia,"306,279",4.2K,3.5K,89,0.85%,0%,184,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/NC.png,NC,New Caledonia,"289,950",18.6K,18.3K,16,1.05%,0%,185,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/BB.png,BB,Barbados,"281,635",430,430,656,0.13%,0%,186,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/ST.png,ST,Sao Tome And Principe,"227,380",964,960,242,1.97%,0%,187,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/WS.png,WS,Samoa,"222,382",2.8K,2.8K,81,1.48%,0%,188,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/CW.png,CW,Curacao,"191,163",444,444,433,0.48%,0%,189,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/LC.png,LC,Saint Lucia,"179,857",616,610,295,0.22%,0%,190,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/GU.png,GU,Guam,"171,774",549,540,320,0.69%,0%,191,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/KI.png,KI,Kiribati,"131,232",811,810,165,1.74%,0%,192,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/GD.png,GD,Grenada,"125,438",344,340,371,0.59%,0%,193,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/FM.png,FM,Micronesia,"114,164",702,700,165,0.93%,0%,194,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/JE.png,JE,Jersey,"110,778",116,120,932,0.92%,0%,195,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/TO.png,TO,Tonga,"106,858",747,720,150,0.86%,0%,196,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/SC.png,SC,Seychelles,"107,118",452,460,234,0.51%,0%,197,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/AW.png,AW,Aruba,"106,445",180,180,590,-0.16%,0%,198,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/VC.png,VC,Saint Vincent And The Grenadines,"103,948",389,390,266,-0.24%,0%,199,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/VI.png,VI,United States Virgin Islands,"99,465",347,347,285,-0.72%,0%,200,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/AG.png,AG,Antigua And Barbuda,"93,763",442,440,214,0.57%,0%,201,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/IM.png,IM,Isle Of Man,"84,519",572,570,149,0.23%,0%,202,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/AD.png,AD,Andorra,"79,824",468,470,170,0.33%,0%,203,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/DM.png,DM,Dominica,"72,737",751,750,97,0.42%,0%,204,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/KY.png,KY,Cayman Islands,"68,706",264,240,289,0.88%,0%,205,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/BM.png,BM,Bermuda,"64,184",54,54,"1,186",-0.18%,0%,206,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/GG.png,GG,Guernsey,"63,301",78,63,"1,009",0.38%,0%,207,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/GL.png,GL,Greenland,"56,466",2.2M,410.4K,0.14,0.31%,0%,208,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/FO.png,FO,Faroe Islands,"53,090",1.4K,1.4K,39,0.34%,0%,209,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/MP.png,MP,Northern Mariana Islands,"49,551",464,460,108,0.49%,0%,210,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/KN.png,KN,Saint Kitts And Nevis,"47,657",261,260,184,0.21%,0%,211,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/TC.png,TC,Turks And Caicos Islands,"45,703",948,948,49,0.79%,0%,212,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/SX.png,SX,Sint Maarten,"44,175",34,34,"1,301",0.11%,0%,213,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/AS.png,AS,American Samoa,"44,273",199,200,220,-0.81%,0%,214,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/MH.png,MH,Marshall Islands,"41,569",181,180,233,1.03%,0%,215,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/LI.png,LI,Liechtenstein,"39,327",160,160,247,0.65%,0%,216,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/MC.png,MC,Monaco,"36,469",2,2,"18,149",-0.47%,0%,217,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/SM.png,SM,San Marino,"33,660",61,60,561,-0.05%,0%,218,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/GI.png,GI,Gibraltar,"32,649",7,7,"4,807",0.12%,0%,219,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/MF.png,MF,Saint Martin,"31,791",53,50,642,0.9%,0%,220,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/VG.png,VG,British Virgin Islands,"31,305",151,150,210,0.74%,0%,221,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/PW.png,PW,Palau,"18,055",459,460,39,0.02%,0%,222,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/CK.png,CK,Cook Islands,"17,011",240,240,71,0.19%,0%,223,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/AI.png,AI,Anguilla,"15,857",91,91,175,0.26%,0%,224,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/NR.png,NR,Nauru,"12,668",21,20,639,0.88%,0%,225,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/WF.png,WF,Wallis And Futuna,"11,572",274,274,42,-0.6%,0%,226,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/TV.png,TV,Tuvalu,"11,312",26,30,380,0.74%,0%,227,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/BL.png,BL,Saint Barthelemy,"10,967",21,25,440,0.25%,0%,228,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/PM.png,PM,Saint Pierre And Miquelon,"5,862",242,242,24,-0.38%,,229,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/MS.png,MS,Montserrat,"4,390",102,102,43,-0.09%,,230,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/FK.png,FK,Falkland Islands,"3,780",12.2K,12.2K,0.31,0.29%,,231,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/NU.png,NU,Niue,"1,934",261,261,7,0.05%,,232,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/TK.png,TK,Tokelau,"1,871",12,10,189,1.18%,,233,1980
+https://s3.amazonaws.com/images.wpr.com/flags/24/VA.png,VA,Vatican City,510,< 1,< 1,"1,177",1.57%,,234,1980
